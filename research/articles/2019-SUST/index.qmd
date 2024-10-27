@@ -1,0 +1,55 @@
+---
+type: journal
+date: 2019-12-05
+title: "Dispute Resolution and Collaborative Decision-Making: What Accounts for Their Effectiveness? The Case of Romania"
+author:
+  - name: Alina Hossu
+    attributes:
+      corresponding: true
+    affiliation: Centre for Environmental Research and Impact Studies, University of Bucharest
+    affiliation-url: https://ccmesi.ro
+    orcid: 0000-0002-0493-4965
+  - name: Ioan Cristian Iojă
+    affiliation: Centre for Environmental Research and Impact Studies, University of Bucharest
+    affiliation-url: https://ccmesi.ro
+    orcid: 0000-0001-6106-5105
+  - name: Maria Pătroescu
+    affiliation: Centre for Environmental Research and Impact Studies, University of Bucharest
+    affiliation-url: https://ccmesi.ro
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+  - name: Anna M. Hersperger
+    affiliation: Swiss Federal Research Institute
+    affiliation-url: https://www.wsl.ch/en/
+    orcid: 0000-0001-5407-533X
+categories:
+  - mvQCA
+  - Environmental conflicts
+  - Shared motivation
+  - Joint action
+  - Romania
+pub-info:
+  links:
+    - name: Journal
+      url: https://www.mdpi.com/2071-1050/11/24/7072
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2019-SUST.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://www.mdpi.com/2071-1050/11/24/7072
+  publisher: "MDPI"
+  container-title: "Sustainability"
+  volume: 11
+  page: 7072
+  issn: 2071-1050
+  doi: "10.3390/su11247072"
+---
+
+## Abstract
+
+Collaborative dispute resolution is essential in natural resource management in the process of negotiating solutions to environmental issues. Our study aims to look at the factors which appear to contribute to the effectiveness of collaborative problem-solving efforts in case studies of environmental conflicts in Romania. The selected case studies illustrate conflicts over the management of natural resources, human-wildlife conflicts, as well as conflicts between development and conservation. A framework for collaborative governance and the multi-value qualitative comparative analysis (mvQCA) method are used to assess and compare 27 case studies in order to identify the factors that bring about success in the resolution of the conflicts in question. Our results indicate that a combination of different characteristics of shared motivation and joint action is sufficient for reaching agreement on the contested issues. However, most of the agreements are not stable due to political and administrative reasons. This study discusses the opportunities and constraints under which collaborative efforts unfold in the case studies. It could also help managers to enhance collaboration in the resolution process for environmental conflicts in the future.

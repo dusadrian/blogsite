@@ -1,0 +1,31 @@
+---
+type: chapter
+date: 2020-04-01
+title: "Set Theoretic Methods"
+description: |
+  An alternative way to analyse social reality.
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - Set Theory
+pub-info:
+  links:
+    - name: PDF
+      url: 2020-STM.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: chapter
+  title: "Set Theoretic Methods"
+  editor:
+    - name: Luigi Curini
+    - name: Robert Franzese
+  container-title: "The SAGE Handbook of Research Methods in Political Science and International Relations"
+  publisher: "Sage"
+---
+
+<br> There are various ways to analyze social phenomena. The traditional, qualitative, and quantitative approaches involve specialized languages and seemingly incompatible methods – but such phenomena can also be framed in terms of set relations, as it is often the case in common, everyday language. For instance, poverty research can either employ quantitative, nationally representative samples, or they can use case studies to unfold particular, exemplar life stories that are usually obscured by numbers, or it can be framed in a set theoretical perspective.

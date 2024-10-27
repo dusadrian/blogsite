@@ -1,0 +1,33 @@
+---
+type: journal
+date: 2001-06-01
+title: "De la date disparate la o arhivă națională de date sociale"
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    attributes:
+      corresponding: true
+    affiliation: Institute for Quality of Life Research
+    affiliation-url: https://www.iccv.ro/en/
+  - name: Dana Nițulescu
+    affiliation: Institute for Quality of Life Research
+    affiliation-url: https://www.iccv.ro/en/
+  - name: Mariana Dan
+    affiliation: Institute for Quality of Life Research
+    affiliation-url: https://www.iccv.ro/en/
+categories:
+  - RODA
+pub-info:
+  links:
+    - name: Journal
+citation:
+  type: article-journal
+  publisher: "ICCV"
+  container-title: "Calitatea Vieții"
+  volume: 1
+---
+
+## Context
+
+Descrie primii pași spre crearea unei arhive naționale de date sociale, în perioada în care ICCV își organiza datele într-o bază de date care avea să devină o arhivă în adevăratul sens al cuvântului.

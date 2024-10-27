@@ -1,0 +1,28 @@
+---
+type: book
+date: 2014-06-01
+title: "Elemente de analiză comparativă"
+description: |
+  The published version of my PhD thesis on comparative analysis, Romanian language.
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+pub-info:
+  links:
+    - name: PDF
+      url: 2014-EAC.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: book
+  publisher: "EUB"
+  container-title: "Editura Universității din București"
+---
+
+![](cover.jpg)
+
+<br> Elemente de analiză comparativă face o prezentare a unui domeniu metodologic bogat, care a cunoscut o explozie de interes în ultimii 25 de ani. Dezvoltată cu precădere în sociologie și științele politice, analiza calitativ comparativă poate fi aplicată cu succes în orice domeniu de cercetare socială prin utilizarea unui algoritm de minimizare booleană, rezultatul fiind o combinație cauzală minimă care este asociată cu producerea unui fenomen de interes. Cartea se dorește a fi o introducere lejeră în această metodologie de cercetare, cu toate punctele tari dar și cu criticile asociate. Primul capitol analizează diferențele dintre calitativ și cantitativ în științele sociale, iar următoarele două capitole arată cum analiza comparativă reușește să medieze cele două lumi. Al patrulea capitol reia noțiuni de teoria mulțimilor, iar capitolul final descrie metodologia de analiză calitativ comparativă, în special dezvoltarea modernă a acesteia cu ajutorul mulțimilor vagi.

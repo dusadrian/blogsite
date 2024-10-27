@@ -1,0 +1,55 @@
+---
+type: journal
+date: 2024-02-14
+title: "ggVennDiagram: Intuitive Venn diagram software extended"
+author:
+  - name: Chun-Hui Gao
+    affiliation: College of Resources and Environment, Huazhong Agricultural University, China
+    orcid: 0000-0002-1445-7939
+  - name: Chengjie Chen
+    affiliation: South China Agricultural University
+    orcid: 0000-0001-5964-604X
+  - name: Turgut Akyol
+    affiliation: Department of Molecular Biology and Genetics, Aarhus University
+    affiliation-url: https://international.au.dk
+    orcid: 0000-0003-0897-7716
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+  - name: Guangchuang Yu
+    affiliation: Department of Bioinformatics, Southern Medical University, China
+    orcid: 0000-0002-6485-8781
+  - name: Bin Cao
+    affiliation: School of Civil and Environmental Engineering , Nanyang Technological University, Singapore
+    orcid: 0000-0002-9462-496X
+  - name: Peng Cai
+    attributes:
+      corresponding: true
+    affiliation: College of Resources and Environment, Huazhong Agricultural University, China
+    orcid: 0000-0002-3103-1542
+categories:
+  - Venn diagram
+pub-info:
+  links:
+    - name: Journal
+      url: https://onlinelibrary.wiley.com/doi/10.1002/imt2.177
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2024-IMETA.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://onlinelibrary.wiley.com/doi/10.1002/imt2.177
+  publisher: "Wiley"
+  container-title: "iMeta"
+  volume: 3
+  issue: 1
+  issn: 2770-5986
+  doi: "10.1002/imt2.177"
+---
+
+## Abstract
+
+Venn diagrams are widely used to illustrate relationships among multiple datasets. As one of the most popular data visualization platforms, the R programming language stands out with numerous packages, including VennDiagram, venn, and RVenn, designed for plotting Venn diagrams. Building upon the foundations laid by these existing tools, we developed ggVennDiagram. Due to the support for the grammar of graphics, precise region/subset filling, and some other easy-to-use features, the ggVennDiagram package has emerged as one of the most favored tools in this domain.

@@ -1,0 +1,44 @@
+---
+type: journal
+date: 2016-11-01
+title: "Enhancing Sensitivity Diagnostics for Qualitative Comparative Analysis: A Combinatorial Approach"
+description: |
+  A formal response to the criticism of QCA by Hug.
+author:
+  - name: Alrik Thiem
+    attributes:
+      corresponding: true
+    affiliation: Swiss Federal Institute of Technology Zurich
+  - name: Reto Spöhel
+    affiliation: Bern University of Applied Sciences
+    affiliation-url: www.bfh.ch/en/reto-spoehel
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+pub-info:
+  links:
+    - name: Journal
+      url: https://www.cambridge.org/core/journals/political-analysis/article/abs/enhancing-sensitivity-diagnostics-for-qualitative-comparative-analysis-a-combinatorial-approach/1BE36D667E31D3A1FEC6F9B4370909C9
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2016-PA.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://www.cambridge.org/core/journals/political-analysis/article/abs/enhancing-sensitivity-diagnostics-for-qualitative-comparative-analysis-a-combinatorial-approach/1BE36D667E31D3A1FEC6F9B4370909C9
+  publisher: "Cambridge University Press"
+  container-title: "Political Analysis"
+  volume: 24
+  issue: 1
+  page: 104-120
+  issn: 1047-1987
+  doi: "10.1093/pan/mpv028"
+---
+
+## Abstract
+
+Sensitivity diagnostics has recently been put high on the agenda of methodological research into Qualitative Comparative Analysis (QCA). Existing studies in this area rely on the technique of exhaustive enumeration, and the majority of works examine the reactivity of QCA either only to alterations in discretionary parameter values or only to data quality. In this article, we introduce the technique of combinatorial computation for evaluating the interaction effects between two problems afflicting data quality and two discretionary par- ameters on the stability of QCA reference solutions. In this connection, we challenge a hitherto unstated assumption intrinsic to exhaustive enumeration, show that combinatorial computation permits the formula- tion of general laws of sensitivity in QCA, and demonstrate that our technique is most efficient.

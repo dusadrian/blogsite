@@ -1,0 +1,49 @@
+---
+type: journal
+date: 2011-08-01
+title: "Crisp-Set Qualitative Comparative Analysis (csQCA), Contradictions and Consistency Benchmarks for Model Specification"
+description: |
+  The case-to-factor ratio is a real problem affecting not only quantitative analysis but also QCA.
+  This paper applies probability theory to establish the goldilock zone.
+author:
+  - name: Axel Marx
+    url: https://adriandusa.eu
+    orcid: 0000-0003-1474-0539
+    attributes:
+      corresponding: true
+    affiliation: Leuven Centre for Global Governance Studies
+    affiliation-url: https://ghum.kuleuven.be/ggs
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - Comparative research
+  - Configurational Analysis,
+  - Contradictions
+  - Consistency
+pub-info:
+  links:
+    - name: Journal
+      url: https://journals.sagepub.com/doi/abs/10.4256/mio.2010.0037
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2011-MIO.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://journals.sagepub.com/doi/abs/10.4256/mio.2010.0037
+  publisher: "Sage"
+  container-title: "Methodological Innovations"
+  volume: 6
+  issue: 2
+  issn: 0148-2963
+  page: 103-148
+  doi: "10.4256/mio.2010.0037"
+---
+
+## Abstract
+
+The purpose of this paper is to address and test two assumptions on which csQCA is based, namely that csQCA will generate contradictions and low consistency scores if models are ill-specified. The first part of the paper introduces csQCA in general and as a stepwise approach. In a second part a real-life example is introduced with the purpose of illustrating how csQCA operates and as an input for a simulation in the subsequent part. The third part introduces contradictions, consistency, their interrelatedness and the assumptions which are made with regard to contradictions and consistency. Subsequently the assumptions are tested via a simulation on the basis of a csQCA analysis of over 5 million random datasets. The paper argues that researchers cannot always assume that csQCA will generate contradictions or low consistency scores when models are ill-specified. Such an assumption is only justified when csQCA applications take limitations with regard to model specification (the number of conditions and the number of cases) into account. Benchmark tables for model specification purposes are developed. Since these tables are based on a probability value of 0.5 the paper also tests the results for contradictions and consistency for the probabilities which were present in a real-life example. This test shows that the 0.5 probability generates an appropriate measure for the occurrence of contradictions and consistency indicating that the benchmark tables can be used for different applications with different distributions of 0's and 1's in the conditions and outcomes. The paper ends with a conclusion.

@@ -1,0 +1,32 @@
+---
+type: book
+date: 2019-06-01
+title: "QCA with R. A Comprehensive Resource"
+description: |
+  The published version of my PhD thesis on comparative analysis, Romanian language.
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+pub-info:
+  links:
+    - name: PDF
+      url: 2019-QCA.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: book
+  publisher: "Springer"
+  container-title: "Cham"
+---
+
+![](cover.png)
+
+<br> Starting with version 2.0, the QCA package in R witnessed substantial improvements in both the functionality of the written commands and also the Graphical User Interface. Considerable effort is made to maintain backwards compatibility with older versions of the package, so that previous publications could still be replicated with the current version, but the new features required an almost complete re-write of the previous book published at Springer.
+
+This new book contains detailed explanations on how to perform QCA with R using the latest cutting edge developments, among which: better calibrations, improved dialogs in the GUI, expanded parameters of fit, native SOP expressions, conjunctural directional expectations, and the most advanced minimization engine called CCubes.
+
+The online version of the book can be found on <https://bookdown.org/dusadrian/QCAbook/>.

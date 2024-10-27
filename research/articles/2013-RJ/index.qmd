@@ -1,0 +1,43 @@
+---
+type: journal
+date: 2013-06-01
+title: "QCA: A Package for Qualitative Comparative Analysis"
+description: |
+  Vesion 1.0 of the R package QCA brought a host of features that deserved a thorough
+  description in a formal journal.
+author:
+  - name: Alrik Thiem
+    attributes:
+      corresponding: true
+    affiliation: Swiss Federal Institute of Technology Zurich
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - Boolean minimization
+pub-info:
+  links:
+    - name: Journal
+      url: https://journal.r-project.org/archive/2013/RJ-2013-009/index.html
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2013-RJ.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://journal.r-project.org/archive/2013/RJ-2013-009/index.html
+  publisher: "R Foundation"
+  container-title: "R Journal"
+  volume: 5
+  issue: 1
+  page: 87-97
+  issn: 2073-4859
+  doi: "10.32614/RJ-2013-009"
+---
+
+## Abstract
+
+This paper presents QCA, a package for performing Qualitative Comparative Analysis (QCA). QCA is becoming increasingly popular with social scientists, but none of the existing software alternatives covers the full range of core procedures. This gap is now filled by QCA. After a mapping of the method’s diffusion, we introduce some of the package’s main capabilities, including the calibration of crisp and fuzzy sets, the analysis of necessity relations, the construction of truth tables and the derivation of complex, parsimonious and intermediate solutions.

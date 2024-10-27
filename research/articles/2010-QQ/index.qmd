@@ -1,0 +1,41 @@
+---
+type: journal
+date: 2010-01-01
+title: "A mathematical approach to the Boolean minimization problem"
+description: |
+  A groundbreaking work, at that time capable of solving problems nine times
+  more complex than QCA's best software, fs/QCA
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    attributes:
+      corresponding: true
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - Boolean minimization
+  - Complexity
+pub-info:
+  links:
+    - name: Journal
+      url: https://link.springer.com/article/10.1007/s11135-008-9183-x
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2010-QQ.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://link.springer.com/article/10.1007/s11135-008-9183-x
+  publisher: "Springer"
+  container-title: "Quality & Quantity"
+  volume: 44
+  issn: 0033-5177
+  page: 99-113
+  doi: "10.1007/s11135-008-9183-x"
+---
+
+## Abstract
+
+Any minimization problem involves a computer algorithm. Many such algorithms have been developed for the boolean minimizations, in diverse areas from computer science to social sciences (with the famous QCA algorithm). For a small number of entries (causal conditions in the QCA) any such algorithm will find a minimal solution, especially with the aid of the modern computers. However, for a large number of conditions a quick and complete solution is not easy to find using an algorithmic approach, due to the extremely large space of possible combinations to search in. In this article I will demonstrate a simple alternative solution, a mathematical method to obtain all possible minimized prime implicants. This method is not only easier to understand than other complex algorithms, but it proves to be a faster method to obtain an exact and complete boolean solution.

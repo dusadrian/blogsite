@@ -1,0 +1,37 @@
+---
+type: journal
+date: 2006-09-01
+title: "QCA – Analiza Calitativă Comparativă. Aplicații, instrumente și potențial"
+description: |
+  Introducing QCA to the Romanian academic community
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    attributes:
+      corresponding: true
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+pub-info:
+  links:
+    - name: Journal
+      url: http://www.arsociologie.ro/rezumat/440-dusa-2-2006
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2006-SR.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: http://www.arsociologie.ro/rezumat/440-dusa-2-2006
+  publisher: "Asociația Română de Sociologie"
+  container-title: "Sociologie Românească"
+  volume: 4
+  issue: 2
+  page: 161-169
+---
+
+## Abstract
+
+Social and political sciences are divided, with respect to research, between two worlds: quantitative research and qualitative research. Although this divide is principially accepted as artificial and in fact the two types of research are complementary, in everyday practice it can be easily detected a more or less strong orientation to one of the two poles. This paper presents a third way in research, one that is trying to bridge the two worlds, managing to solve the perceived weaknesses of the qualitative research by introducing a mathematical algorithm (Ragin, 1987). This type of qualitative analysis is therefore gaining trust, eliminating different subjective perspectives. Results are replicable; applying the same methodology, each researcher reaches the same conclusion.

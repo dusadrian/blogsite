@@ -1,0 +1,42 @@
+---
+type: journal
+date: 2013-03-06
+title: "Boolean Minimization in Social Science Research: A Review of Current Software for Qualitative Comparative Analysis (QCA)"
+description: |
+  Describes the software landscape in the QCA field, in a time when the R package QCA was under development.
+author:
+  - name: Alrik Thiem
+    attributes:
+      corresponding: true
+    affiliation: Swiss Federal Institute of Technology Zurich
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - Boolean minimization
+pub-info:
+  links:
+    - name: Journal
+      url: https://journals.sagepub.com/doi/10.1177/0894439313478999
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2013-SSCR.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://journals.sagepub.com/doi/10.1177/0894439313478999
+  publisher: "Sage"
+  container-title: "Social Science Computer Review"
+  volume: 31
+  issue: 4
+  page: 505-521
+  issn: 0894-4393
+  doi: "10.1177/0894439313478999"
+---
+
+## Abstract
+
+Besides an increase in the number of empirical applications, the widening landscape of tailored computer programs attests to the success of qualitative comparative analysis (QCA) as a social research method. Users now have the choice between three graphical user interface (GUI) and three command line interface (CLI) solutions. In addition to different functional foci, each program possesses several technical particularities, some of which the vast majority of end users remain unaware of. Since these particularities may influence results and in turn substantive conclusions, this review is a timely undertaking. More specifically, we compare the two most common GUIs fs/QCA and Tosmana as well as the CLI QCA. By reanalyzing data from a sociological study on rural grassroots associations in Norway, major differences and similarities with respect to truth table construction, minimization algorithms, and prime implicant chart management are illustrated.

@@ -1,0 +1,26 @@
+# Date format
+date-format: "YYYY"
+
+# Enable banner style title blocks
+title-block-banner: "#a4cbe2"
+
+title-block-banner-color: "#1b455f"
+
+# Default for table of contents
+toc: true
+toc-title: Contents
+toc-location: left
+
+# Default knitr options
+execute:
+  echo: false
+  message: false
+  warning: false
+
+format:
+  html:
+    template-partials:
+      - ../html/research/title-block.html
+
+
+# https://dfolio.quarto.pub/dfolio-website/posts/2023/2023-08-17_publications.html

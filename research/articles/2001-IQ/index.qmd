@@ -1,0 +1,42 @@
+---
+type: journal
+date: 2001-06-01
+title: "A Data Archive for Social Sciences in Romania"
+description: |
+  The first article describing the beginning or RODA, the Romanian Social Data Archive.
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    attributes:
+      corresponding: true
+    affiliation: Institute for Quality of Life Research
+    affiliation-url: https://www.iccv.ro/en/
+categories:
+  - RODA
+  - DDI
+pub-info:
+  links:
+    - name: Journal
+      url: https://iassistquarterly.com/index.php/iassist/article/view/736
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2001-IQ.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://iassistquarterly.com/index.php/iassist/article/view/736
+  publisher: "IASSIST"
+  container-title: "IASSIST Quarterly"
+  volume: 25
+  issue: 2
+  doi: 10.29173/iq736
+---
+
+## Context
+
+At a time when the Romanian data archive did not exist, efforts were being made by the Institute for Quality of Life Research to organize its datasets in a systematic way, especially for comparative purposes. Feeling the potential of a data archive, following Western examples, the director of the institute Prof. Zamfir (then also the Dean of the Faculty of Sociology and Social Work) quickly realized that a Romanian data archive was necessary.
+
+The initial name for this archive was RSDA, from the Romanian Social Data Archive, but its later trademark abbreviation changed to RODA, meaning the same thing.
+
+This article describes the situation from that time, in a Romanian (social) scientific environment that was still in its infancy after having been oppressed for decades, by the communist regime, and the grass roots of what will eventually become a national data archive for the social sciences.

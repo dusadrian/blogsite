@@ -1,0 +1,37 @@
+---
+type: chapter
+date: 2014-03-14
+title: "A Common Agenda for the European Research Infrastructures in the Social Sciences and Humanities"
+description: |
+  A chapter in a book resulting from a joint European collaboration fostered by the SSH working group of the European Strategy Forum for Research Infrastructures (ESFRI).
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+  - name: Claudia Oellers
+    affiliation: RatSWD
+  - name: Simon Wolff
+    affiliation: RatSWD
+categories:
+  - Research Infrastructures
+  - SSH
+pub-info:
+  links:
+    - name: PDF
+      url: 2014-CAERI.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: chapter
+  title: "A Common Agenda for the European Research Infrastructures in the Social Sciences and Humanities"
+  editor:
+    - name: Adrian Dușa
+    - name: Dietrich Nelle
+    - name: Günter Stock
+    - name: Gert G. Wagner
+  container-title: "Facing the Future. European Research Infrastructures for the Humanities and Social Sciences"
+  publisher: "SCIVERO Verlag"
+---
+
+<br> Research in the social sciences and the humanities (SSH) in Europe is currently facing a historic turning point. The social sciences and the humanities have been included in the European Union’s new framework program for research and innovation Horizon 2020 and embedded across the societal challenges the program seeks to address. The integration of both disciplines is a sign for the increasing recognition and the essential role SSH plays in addressing the soci- etal challenges and the great number of pressing issues Europe faces today and in the near future. These include employment, demographic change and ageing populations, migration, poverty, climate change, food and energy security, Euro- pean cohesion and cultural diversity.

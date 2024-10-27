@@ -1,0 +1,41 @@
+---
+type: journal
+date: 2022-11-18
+title: "Critical Tension: Sufficiency and Parsimony in QCA"
+description: |
+  This paper is a formal response to the recent critique of QCA
+  from CNA proponents
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    attributes:
+      corresponding: true
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - CNA
+  - Correctness
+pub-info:
+  links:
+    - name: Journal
+      url: https://journals.sagepub.com/doi/abs/10.1177/0049124119882456
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2022-SMR.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://journals.sagepub.com/doi/abs/10.1177/0049124119882456
+  publisher: "Sage"
+  container-title: "Sociological Methods & Research"
+  volume: 51
+  issue: 2
+  issn: 0049-1241
+  doi: "10.1177/0049124119882456"
+---
+
+## Abstract
+
+The main objective of the qualitative comparative analysis is to find solutions that display sufficient configurations of causal conditions leading to the presence of an outcome. These solutions should be less complex than the original observed configurations, as parsimonious as possible, without sacrificing the sufficiency requirement. Sufficiency and parsimony are two requirements that act in opposition, and an optimal solution is one that accommodates both. There are different search strategies that lead to different types of solutions, with an ongoing debate about which solution type is closest to the true, underlying causal structure. This article presents the different logics behind each simplification system in order to explain how and why they lead to different results and introduces the concept of "robust sufficiency" to clear the debate. It analyses the correctness ratios for the different solution type and provides an improved set of procedures to measure correctness that captures the best features from each system. Out of the competition between the conservative and the parsimonious search strategies, the intermediate solution emerges as the best hybrid that is suitable for causal analysis, outperforming the parsimonious solution in recovering a known (even parsimonious) causal structure.

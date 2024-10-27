@@ -1,0 +1,50 @@
+---
+title: Curriculum vitæ
+description: "Adrian Dusa's CV"
+date: 2024-10-27
+published-title: CV last updated
+engine: knitr
+freeze: false
+cv:
+  pdf: "2024-10-27-CV-Adrian-Dusa-English.pdf"
+---
+
+```{css, echo=FALSE}
+#title-block-header .description {
+    display: none;
+}
+```
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+::: text-center
+<a
+  class="btn btn-primary cv-download"
+  href="2024-10-05-CV-Adrian-Dusa-English.pdf"
+  target="_blank"
+> <i class="fa-solid fa-file-arrow-down"></i> Download CV </a>
+:::
+
+::: embed-container
+<iframe src="2024-10-05-CV-Adrian-Dusa-English.pdf">
+
+</iframe>
+:::

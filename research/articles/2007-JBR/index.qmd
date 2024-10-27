@@ -1,0 +1,43 @@
+---
+type: journal
+date: 2007-01-01
+title: "User manual for the QCA(GUI) package in R"
+description: |
+  A paper describing the initial version of the graphical user interface
+  designed for the QCA package, using John Fox's Rcmdr source files.
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    attributes:
+      corresponding: true
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - GUI
+pub-info:
+  links:
+    - name: Journal
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0148296307000148
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2007-JBR.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0148296307000148
+  publisher: "Elsevier"
+  container-title: "Journal of Business Research"
+  volume: 60
+  issue: 5
+  issn: 0148-2963
+  page: 576-586
+  doi: "10.1177/0049124119882456"
+---
+
+## Abstract
+
+Although performing all available function directly from R's command line is possible, many users have expressed their desire for a user-friendly version of the QCA package with menus. Instead of designing the user interface from scratch it was a lot easier to use existing code and Rcmdr is the best engineered interface available for R. The QCAGUI package (the companion of the standard QCA package) is based on the Rcmdr user interface.
+
+Other, more advanced software exists that perform QCA algorithms but none of them offers the kind of development R has in terms of code readability, code sharing and helpful advice from a wide community. An R package for QCA emerges and its development is just beginning as the level of interest in R increases constantly.

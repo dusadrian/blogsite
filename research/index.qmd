@@ -1,0 +1,45 @@
+---
+title: "Research"
+listing:
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/publications.ejs
+    categories: true
+  - id: books
+    contents: "books/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/publications.ejs
+  - id: chapters
+    contents: "chapters/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/publications.ejs
+  # - id: working-papers
+  #   contents: "working-papers/*/index.qmd"
+  #   sort: "date desc"
+  #   template: ../html/research/publications.ejs
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+My research is mainly focused on methodological aspects of the social science research. In particular, I have made a number of contributions to both the theory of the Qualitative Comparative Analysis (QCA), and also to the software implementation of this research method. My R package [**QCA**](https://cran.r-project.org/web/packages/QCA/index.html) is now the default standard for this type of research, being taught in university curricula and summer schools, all over the world.
+
+My other research interest is related to data documentation. I strongly believe that data is useless, and its value decreases over time, unless we manage to establish a long term storage containing the context in which the data was collected. Such metadata (data about data) is handled by the Data Documentation Initiative (DDI) standard, for which I develop software (into another R package called [**DDIwR**](https://cran.r-project.org/web/packages/DDIwR/index.html)) that empowers researchs to quickly document their data and create a single XML document containing both data and metadata, for long term storage.
+
+Finally, it needs mentioning what I consider another one of my proud-worthy accomplishments, the R package [**declared**](https://cran.r-project.org/web/packages/declared/index.html). It tackles what many consider a serious shortcoming of the R statistical environment, the existence of a single missing value, called NA. But social sciences have many values to explain why a certain value is missing (maybe the respondend did not know what to respond, or might not have wanted to respond because of a too sensitive question, or simply the question was not applicable). Package **declared** makes it possible to declare value labels and missing values, and offers a wide range of functions to deal with these additional values that base R does not cover.
+
+## Journal articles
+
+::: {#articles}
+:::
+
+## Books
+
+::: {#books}
+:::
+
+## Book chapters
+
+::: {#chapters}
+:::

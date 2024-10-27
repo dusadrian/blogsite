@@ -1,0 +1,115 @@
+---
+title: Adrian Dușa
+# backgroundcolor: "#f5f5f5"
+about:
+  id: about-me
+  template: solana
+  image: images/profile.png
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:dusa.adrian@unibuc.ro"
+    - icon: google-scholar
+      href: https://scholar.google.ro/citations?user=BLyda7YAAAAJ&hl=en
+      aria-label: Google Scholar
+      text: "{{< ai google-scholar size=lg >}} Scholar"
+    - icon: clarivate
+      href: https://www.webofscience.com/wos/author/record/D-9324-2017
+      aria-label: Clarivate
+      text: "{{< ai clarivate size=lg >}} Clarivate"
+    - icon: scopus
+      href: https://www.scopus.com/authid/detail.uri?authorId=55222052300
+      aria-label: Scopus
+      text: "{{< ai scopus size=lg >}} Scopus"
+    - icon: orcid
+      href: https://orcid.org/0000-0002-3525-9253
+      aria-label: ORCID
+      text: "{{< ai orcid size=lg >}} ORCID"
+    - icon: rocket
+      text: r-universe
+      href: https://dusadrian.r-universe.dev/
+    - icon: github
+      href: https://github.com/dusadrian
+      text: GitHub
+    - icon: twitter
+      href: https://x.com/dusadrian
+      aria-label: Twitter
+      text: X
+    - icon: mastodon
+      href: https://mastodon.social/@dusadrian
+      aria-label: Mastodon
+      text: Mastodon
+    - icon: keybase
+      href: https://keybase.io/dusadrian
+      text: "![](images/keybase.svg){height=18px} &nbsp;KeyBase"
+---
+
+::: {#about-me}
+<!-- <img src="images/binary-banner.png" style="width:100%;"/> -->
+:::
+
+### Full Professor
+
+I work at the [Department of Sociology](http://www.sas.unibuc.ro) from the [University of Bucharest](http://www.unibuc.ro), teaching social statistics, research methodology and measurement in the social sciences.
+
+I am also the National Coordinator of the [ESS - European Social Survey](http://www.europeansocialsurvey.org), and Director of the [RODA - Romanian Social Data Archive](http://www.roda.ro), being involved in data archiving for more than 20 years in partnership with the [CESSDA - Council of European Social Science Data Archives](https://www.cessda.eu).
+
+My activity in the domain of research infrastructures spans nationally, appointed as a member of the CRIC - Romanian Committee for Research Infrastructures, and internationally as a former Romanian delegate to [ESFRI - European Strategy Forum for Research Infrastructures](http://www.esfri.eu/), where I chaired the SCI-SWG - Social and Cultural Innovation Strategy Working Group between 2012 and 2014.
+
+My primary research interest is QCA - Qualitative Comparative Analysis, a novel methodology for social research that inspires a growing community for which I serve as a member of the Advisory Board and Steering Committee at [COMPASSS](http://www.compasss.org). I have published extensively on methodological aspects, with a key interest in the programming of the minimization algorithms. My main programming environment is [R](https://www.r-project.org/) (see also [R-omania](http://www.r-project.ro/)), for which I have contributed a number of packages, among which [QCA](https://cran.r-project.org/web/packages/QCA/index.html) for running Qualitative Comparative Analysis, [DDIwR](https://cran.r-project.org/web/packages/DDIwR/index.html) to convert to and from other statistical software, and [declared](https://cran.r-project.org/web/packages/declared/index.html) for (finally) declaring missing values and labels in R.
+
+## Education
+
+::::::::: grid
+::: {.g-col-2 .center-vertically}
+{{< iconify graduation-cap size=3x >}}
+:::
+
+::: g-col-10
+PhD in Sociology, 2008 <br> University of Bucharest
+:::
+
+::: {.g-col-2 .center-vertically}
+{{< iconify graduation-cap size=3x >}}
+:::
+
+::: g-col-10
+MA in Sociology, 1999 <br> University of Bucharest
+:::
+
+::: {.g-col-2 .center-vertically}
+{{< iconify graduation-cap size=3x >}}
+:::
+
+::: g-col-10
+BA in Sociology, 1997 <br> University of Bucharest
+:::
+:::::::::
+
+## Experience
+
+::::::::: grid
+::: {.g-col-2 .center-vertically}
+![](images/ub.svg){width="1.5cm"}
+:::
+
+::: g-col-10
+**Professor** <br> University of Bucharest, Department of Sociology <br> February 2002 - present
+:::
+
+::: {.g-col-2 .center-vertically}
+![](images/roda.svg){width="1.5cm"}
+:::
+
+::: g-col-10
+**Director** <br> Romanian Social Data Archive <br> September 2001 - present
+:::
+
+::: {.g-col-2 .center-vertically}
+![](images/iccv.svg){width="1.5cm"}
+:::
+
+::: g-col-10
+**Researcher** <br> Institute for Quality of Life Research <br> September 1999 - January 2001
+:::
+:::::::::

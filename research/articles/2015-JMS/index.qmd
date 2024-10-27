@@ -1,0 +1,44 @@
+---
+type: journal
+date: 2015-03-01
+title: "Enhancing the Minimization of Boolean and Multivalue Output Functions With eQMC"
+description: |
+  The second iteration of the minimization algorithm implemented in the R package QCA
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    attributes:
+      corresponding: true
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+  - name: Alrik Thiem
+    affiliation: Swiss Federal Institute of Technology Zurich
+categories:
+  - QCA
+  - Boolean minimization
+  - Quine-McCluskey
+  - Set theory
+pub-info:
+  links:
+    - name: Journal
+      url: https://www.tandfonline.com/doi/full/10.1080/0022250X.2014.897949
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2015-JMS.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://www.tandfonline.com/doi/full/10.1080/0022250X.2014.897949
+  publisher: "Taylor & Francis"
+  container-title: "Journal of Mathematical Sociology"
+  volume: 39
+  issue: 2
+  page: 92-108
+  issn: 0022-250X
+  doi: "10.1080/0022250X.2014.897949"
+---
+
+## Abstract
+
+Configurational comparative methods have gained in popularity among sociologists and political scientists. In particular, Qualitative Comparative Analysis (QCA) has attracted considerable attention in recent years. The process of Boolean minimization by means of the Quine-McCluskey algorithm (QMC) is the central procedure in QCA, but QMC’s exactitude renders it memory intensive and slow in processing complex output functions. In this article, we introduce the enhanced QMC algorithm (eQMC) to alleviate these problems. eQMC is equally exact but, unlike QMC, capable of processing multivalent condition and outcome factors. Instead of replacing QMC, however, eQMC acts as an optimizing complement in contexts of limited empirical diversity. We demonstrate its speed and computer memory performance through simulations.

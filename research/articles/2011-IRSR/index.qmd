@@ -1,0 +1,47 @@
+---
+type: journal
+date: 2011-08-01
+title: "The Visual Analogue Scale. An Alternative to the Likert Type Response Scales. An Alternative to the Likert Type Response Scales"
+description: |
+  A paper describing the initial version of the graphical user interface
+  designed for the QCA package, using John Fox's Rcmdr source files.
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    attributes:
+      corresponding: true
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+  - name: Valeriu Frunzaru
+    orcid: 0000-0002-8711-0514
+    affiliation: National University of Political Studies and Public Administration
+    affiliation-url: https://snspa.ro/en/
+categories:
+  - Research methodology
+  - Response scales
+  - Internal consistency
+  - Likert scale
+pub-info:
+  links:
+    - name: Journal
+      url: https://irsrjournal.unibuc.ro/volume1_issue1/
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2011-IRSR.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://irsrjournal.unibuc.ro/volume1_issue1/
+  publisher: "University of Bucharest"
+  container-title: "International Review of Social Research"
+  volume: 1
+  issue: 1
+  issn: 2069-8534
+  page: 91-103
+  doi: "10.1515/irsr-2011-0005"
+---
+
+## Abstract
+
+For about eight decades, research instruments in the social sciences have been orbiting around Likert’s proposal for his famous response scale. Before him, and also after he managed to impose it, many researchers have tried to find a better solution. This, however, has proven difficult. While solving methodological problems for measuring concepts, by concentrating all the responses in only five categories brings major disadvantages as well: it has extremely low variation, it does not produce metric scores unless combined with similar items, and it cannot be used as such for advanced statistical analysis. In this article, we propose using a continuous response scale as a solution to each of these problems. In our opinion, the possible application of this solution has an extremely high potential to advance social science research methodology.

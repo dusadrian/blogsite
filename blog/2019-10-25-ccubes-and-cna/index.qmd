@@ -1,0 +1,38 @@
+---
+title: "CCubes and CNA"
+description: "A comment on Baumgartner and Ambühl"
+author:
+  - name: Adrian Dușa
+date: 10-25-2019
+categories: [CCubes, CNA]
+citation:
+  url: https://adriandusa.eu/posts/2019-10-25-ccubes-and-cna/
+image: comment.png
+draft: false
+---
+
+I've recently came across a recent manuscript called called "[Optimizing Consistency and Coverage in Configurational Causal Modeling](https://bora.uib.no/bora-xmlui/bitstream/handle/11250/2767282/printversion.pdf?sequence=2&isAllowed=y)", by Michael Baumgartner and Mathias Ambühl (in the next sections, abbreviated as B&A).
+
+B&A propose an interesting method to find the optimal thresholds for consistency and coverage, to recover the underlying causal structure.
+
+Without starting another debate around CNA vs. QCA, it remains to be seen (and I will probably test) if their idea to find such optimal thresholds is possible / desirable for QCA truth tables.
+
+The purpose of this post is to offer some explanation, since the authors referred to my minimization algorithm called CCubes.
+
+In the text, B&A refer to my package QCA as having: "... a number of shortcomings, especially when it comes to finding the complete space of viable models."
+
+It is highly ambiguous what these shortcomings really are, since the package QCA can find any solution package CNA can find, while it can additionally identify intermediate solutions which package CNA is unable to find (of course it was not built for that, but in my opinion that is a real shortcoming.)
+
+Instead, they points to package QCApro as if that package was somehow superior but fails to mention that package QCApro is a fork of the package QCA, and actually a fork of a very old version that is vastly outperformed by the newer algorithms.
+
+To their credit, B&A does recognize the package QCA is the "only" QCA package in R that allows setting consistency and coverage thresholds, thus by logical implication they admit that package QCApro has limited functionality.
+
+What they refer to as "shortcomings", it is in fact a matter of defaults. A fresh reader of his description might be tempted to believe package QCA cannot find "the complete space of viable models", which would be a false conclusion. In fact, package QCA *can* find the complete space, by properly setting the argument `"all.sol"` to `TRUE`, in function `minimize()`. It is a matter of default values, not about limited functionality.
+
+Further into the manuscript, B&A also refer to my CCubes minimization algorithm, and describe it as accepting: "... much more fine-grained fit parameters and its bottom-up approach may generate models that differ from standard QCA models. CCubes is not equivalent to standard QCA algorithms; its models often significantly outperform common QCA models in model fit"
+
+But that is, of course, not true. CCubes generates exactly the same solutions as standard QCA. It has been thoroughly tested and validated against Ragin's fs/QCA software, as well as against Tosmana.
+
+So a confusion is introduced between what an algoritm is and what it can do. While CCubes ***can*** do everything CNA does, this should not mean CCubes is the same thing with CNA. In fact, as shown in section 10.2 on Coincidence Analysis from my [newest book](https://www.springer.com/gp/book/9783319756677), CCubes is superior to CNA even for CNA-related purposes.
+
+And neither should it mean CCubes is something different than standard QCA. Rather, and I repeat, it is a matter of options: with proper (and default!) settings, CCubes literally matches standard QCA.

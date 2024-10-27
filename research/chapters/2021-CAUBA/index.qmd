@@ -1,0 +1,35 @@
+---
+type: chapter
+date: 2021-04-01
+title: "Comparative Analysis Using Boolean Algebra"
+description: |
+  Describing the way an established method like Boolean Algebra can be
+  used for comparative analysis purposes.
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - Set Theory
+pub-info:
+  links:
+    - name: PDF
+      url: 2021-CAUBA.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: chapter
+  title: "Comparative Analysis Using Boolean Algebra"
+  editor:
+    - name: Paul Atkinson
+    - name: Sara Delamont
+    - name: Alexandru Cernat
+    - name: Joseph W. Sakshaug
+    - name: Richard A. Williams
+  container-title: "SAGE Research Methods Foundations"
+  publisher: "Sage"
+---
+
+<br> Comparative analysis is an important methodological tool in the social sciences, a via me- dia between qualitative and the quantitative research designs. It extends classical qualitative analysis through a systematic method of comparing cases, and complements quantitative data analyses through a novel approach involving a mathematical algorithm that employs Boolean algebra. When it is difficult to apply statistics due to a very small number of cases, comparative analysis can still uncover important causal patterns. Unlike regression-based techniques that rely on symmetric correlations, qualitative comparative analysis presents an alternative way to analyse social science data using set theory, by comparing all possible pairs of cases to determine which causal conditions are redundant (not associated with the outcome of interest) and which configurations of surviving causal conditions are minimally sufficient for the outcome. This methodology allows researchers to identify causal relevance from even a small number of cases, combining Boolean algebra with philosophical concepts such as sufficiency and necessity, as well as counterfactual analysis. Specific to Boolean algebra and Qualitative Comparative Analysis is a feature called equifinality, identifying multiple causal paths that lead to the same outcome.

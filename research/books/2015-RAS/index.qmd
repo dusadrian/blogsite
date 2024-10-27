@@ -1,0 +1,47 @@
+---
+type: book
+date: 2015-06-01
+title: "R cu aplicații în statistică"
+description: |
+  One of the first R published books in Romanian, authored by the members of the R-omania group.
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+  - name: Bogdan Oancea
+    orcid: 0000-0001-6987-5137
+    affiliation: Faculty of Business Administration, University of Bucharest
+    affiliation-url: https://faa.ro
+  - name: Nicoleta Caragea
+    affiliation: National Institute of Statistics
+    affiliation-url: https://insse.ro/cms/en
+  - name: Ciprian Alexandru
+    affiliation: National Institute of Statistics
+    affiliation-url: https://insse.ro/cms/en
+  - name: Nicolae Marius Jula
+    orcid: 0000-0002-0389-165X
+    affiliation: Faculty of Business Administration, University of Bucharest
+    affiliation-url: https://faa.ro
+  - name: Ana Maria Dobre
+    orcid: 0000-0003-3879-6617
+    affiliation: National Institute of Statistics
+    affiliation-url: https://insse.ro/cms/en
+categories:
+  - R
+  - Statistics
+pub-info:
+  links:
+    - name: PDF
+      url: 2015-RAS.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: book
+  publisher: "EUB"
+  container-title: "Editura Universității din București"
+---
+
+![](cover.jpg)
+
+<br> Echipa R-omânia ([www.r-project.ro](http://www.r-project.ro)) acționează ca o comunitate de utilizatori pentru popularizarea mediului de programare statistică R în lumea academică, dar și pentru persoane fizice, instituții și autorități publice, precum și pentru organizații comerciale și necomerciale din România. De asemenea, promovează R cu scopul de a oferi o soluție gratuită și un software open source în România: inițiază, promovează și coordonează proiecte de cercetare, sprijină comunicarea în cadrul comunității de utilizatori R, organizează conferințe științifice, ateliere de lucru și cursuri de pregătire pentru utilizarea R și a altor soluții software ce integrează R în România.
