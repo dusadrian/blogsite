@@ -17,7 +17,7 @@ It is organised on rounds, with core and rotating modules which means questions 
 
 While using a mnemonic system is the only solution with integrated data files, it makes the life of regular users somewhat difficult if searching for a particular variable in a particular round. The connection with the questionnaire gets lost, as the name A4 from the questionnaire is not found in the dataset for round 8.
 
-It is in fact a [Frequently Asked Question](https://www.europeansocialsurvey.org/about/faq.html), found in the Data section at question: "How do I use question numbers as variable names?". The ESS provided solution is to use software specific script files, and rename variables from the mnemonic system to the actual question names from the ESS questionnaire.
+It is in fact a [Frequently Asked Question](https://www.europeansocialsurvey.org/about/faq), found in the Data section at question: "How do I use question numbers as variable names?". The ESS provided solution is to use software specific script files, and rename variables from the mnemonic system to the actual question names from the ESS questionnaire.
 
 The current scripts cover the needs of most ESS users, with different versions written for SAS, SPSS and Stata. However (and this is a general matter which will soon be addressed by ESS) there is no such script for the R programming environment, which is also in high demand.
 
