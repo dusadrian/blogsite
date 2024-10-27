@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2024-10-03-qca-openmp-gurobi/index.html",
+      "/blog/2023-07-16-missing-values-in-R/index.html",
+      "/blog/2022-03-28-renaming-ess-variables/index.html",
+      "/blog/2019-10-25-ccubes-and-cna/index.html"
+    ]
+  },
+  {
     "listing": "/research/index.html",
     "items": [
       "/research/articles/2024-IMETA/index.html",
@@ -26,15 +35,6 @@
       "/research/chapters/2020-STM/index.html",
       "/research/chapters/2014-CAERI/index.html",
       "/research/chapters/2002-SSDAEE/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/2024-10-03-qca-openmp-gurobi/index.html",
-      "/blog/2023-07-16-missing-values-in-R/index.html",
-      "/blog/2022-03-28-renaming-ess-variables/index.html",
-      "/blog/2019-10-25-ccubes-and-cna/index.html"
     ]
   }
 ]
