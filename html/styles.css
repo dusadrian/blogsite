@@ -1,0 +1,40 @@
+
+/* css styles */
+.center-vertically {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+
+.project-categories {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0em 0 0.5em;
+    padding-top: 0.35em;
+    padding-left: 0.5em;
+    padding-bottom: 0;
+    row-gap: 0.35em;
+    column-gap: 0.35em;
+
+    .project-category {
+        padding: 0.25em 0.75em 0.25em 0em;
+        font-size: 0.8em;
+    }
+}
+
+.publication-info {
+    color: #367296
+}
+
+/* .about-links {
+    position: relative;
+    background:transparent url('../images/binary-banner.png') top left no-repeat;
+    background-size: contain;
+    height: 163px;
+
+    .about-link {
+        background: white;
+    }
+} */
