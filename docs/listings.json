@@ -36,5 +36,11 @@
       "/research/chapters/2014-CAERI/index.html",
       "/research/chapters/2002-SSDAEE/index.html"
     ]
+  },
+  {
+    "listing": "/video/index.html",
+    "items": [
+      "/video/2024-06-26-build-codebook-using-r/index.html"
+    ]
   }
 ]

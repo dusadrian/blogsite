@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="">
-<meta name="description" content="Adrian Dușa’s blog">
+<meta name="description" content="Adrian Dușa’s video library">
 
-<title>Blog posts – Adrian Dușa</title>
+<title>Video presentations – Adrian Dușa</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -82,9 +82,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-_quarto-vars','listing-language','listing-title','listing-description','listing-author','listing-date','listing-categories','listing-image','listing-draft','listing-path','listing-outputHref','listing-date-modified','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-_quarto-vars","listing-language","listing-title","listing-description","listing-author","listing-date","listing-categories","listing-image","listing-draft","listing-path","listing-outputHref","listing-date-modified","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -142,8 +142,8 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../html/styles.css">
-<meta name="twitter:title" content="Blog posts – Adrian Dușa">
-<meta name="twitter:description" content="Adrian Dușa’s blog">
+<meta name="twitter:title" content="Video presentations – Adrian Dușa">
+<meta name="twitter:description" content="Adrian Dușa’s video library">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -169,11 +169,11 @@ window.Quarto = {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
+    <a class="nav-link" href="../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../video/index.html"> 
+    <a class="nav-link active" href="../video/index.html" aria-current="page"> 
 <span class="menu-text">Video</span></a>
   </li>  
   <li class="nav-item">
@@ -197,18 +197,18 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="CCubes">CCubes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="CNA">CNA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DDIwR">DDIwR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ESS">ESS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Gurobi">Gurobi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="OpenMP">OpenMP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QCA">QCA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R,">R, <span class="quarto-category-count">(1)</span></div><div class="category" data-category="declared">declared <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DDI">DDI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="English">English <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog posts</h1>
+<h1 class="title">Video presentations</h1>
 </div>
 
 <div>
   <div class="description">
-    Adrian Dușa’s blog
+    Adrian Dușa’s video library
   </div>
 </div>
 
@@ -236,149 +236,41 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="R,,QCA,OpenMP,Gurobi" data-listing-date-sort="1727902800000" data-listing-file-modified-sort="1730026444051" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="469">
-<a href="../blog/2024-10-03-qca-openmp-gurobi/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2024-10-03-qca-openmp-gurobi/parallel.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Significant speed increase in package QCA
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R,'); return false;">
-R,
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('QCA'); return false;">
-QCA
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('OpenMP'); return false;">
-OpenMP
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Gurobi'); return false;">
-Gurobi
-</div>
-</div>
-<div class="card-text listing-description">
-using parallelization with OpenMP and Gurobi
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-3 October, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="R" data-listing-date-sort="1689454800000" data-listing-file-modified-sort="1730026444050" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1149">
-<a href="../blog/2023-07-16-missing-values-in-R/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2023-07-16-missing-values-in-R/qms.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Multiple missing values in R? Solved.
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-</div>
-<div class="card-text listing-description">
-finally, social scientists can define missing values as in SPSS and Stata
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-16 July, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="R,ESS,DDIwR,declared" data-listing-date-sort="1648414800000" data-listing-file-modified-sort="1730064772660" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1230">
-<a href="../blog/2022-03-28-renaming-ess-variables/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2022-03-28-renaming-ess-variables/ESS.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Renaming ESS variables in R
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ESS'); return false;">
-ESS
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('DDIwR'); return false;">
-DDIwR
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('declared'); return false;">
-declared
-</div>
-</div>
-<div class="card-text listing-description">
-through a very simple R script making use of the packages DDIwR and declared
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-28 March, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="CCubes,CNA" data-listing-date-sort="1571950800000" data-listing-file-modified-sort="1730026444049" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="498">
-<a href="../blog/2019-10-25-ccubes-and-cna/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2019-10-25-ccubes-and-cna/comment.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-CCubes and CNA
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('CCubes'); return false;">
-CCubes
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('CNA'); return false;">
-CNA
-</div>
-</div>
-<div class="card-text listing-description">
-A comment on Baumgartner and Ambühl
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-25 October, 2019
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<div class="list blog">
+    
+    <div class="blog-entry" data-index="0" data-categories="DDI,English" data-listing-date-sort="1719349200000" data-listing-file-modified-sort="1730537115094" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="15">
+        <div class="metadata">
+            <p class="date listing-date">26 June, 2024</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="../video/2024-06-26-build-codebook-using-r/index.html">Building a DDI Codebook using R</a></p>
+
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('DDI'); return false;">
+                    DDI
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('English'); return false;">
+                    English
+                </div>
+                
+            </div>
+            
+
+            <p class="description listing-description">An online presentation for the Metadata management in the real world webinar series</p>
+
+            
+        </div>
+        
+        <div class="thumbnail">
+            <img src="../video/2024-06-26-build-codebook-using-r/closer-logo-full.svg" alt="Building a DDI Codebook using R" title="Building a DDI Codebook using R">
+        </div>
+        
+    </div>
+    
 </div>
 <div class="listing-no-matching d-none">
 No matching items

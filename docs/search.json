@@ -369,5 +369,19 @@
     "title": "Adrian Dușa",
     "section": "Experience",
     "text": "Experience\n\n\n\n\n\nProfessor  University of Bucharest, Department of Sociology  February 2002 - present\n\n\n\n\n\nDirector  Romanian Social Data Archive  September 2001 - present\n\n\n\n\n\nResearcher  Institute for Quality of Life Research  September 1999 - January 2001"
+  },
+  {
+    "objectID": "video/index.html",
+    "href": "video/index.html",
+    "title": "Video presentations",
+    "section": "",
+    "text": "26 June, 2024\n        \n        \n            Building a DDI Codebook using R\n\n            \n            \n                \n                \n                    DDI\n                \n                \n                \n                    English\n                \n                \n            \n            \n\n            An online presentation for the Metadata management in the real world webinar series\n\n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "video/2024-06-26-build-codebook-using-r/index.html",
+    "href": "video/2024-06-26-build-codebook-using-r/index.html",
+    "title": "Building a DDI Codebook using R",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{dușa2024,\n  author = {Dușa, Adrian},\n  title = {Building a {DDI} {Codebook} Using {R}},\n  date = {2024-06-26},\n  url = {https://adriandusa.eu/posts/2024-06-26-build-codebook-using-r},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nDușa, Adrian. 2024. “Building a DDI Codebook Using R.” June\n26, 2024. https://adriandusa.eu/posts/2024-06-26-build-codebook-using-r."
   }
 ]
