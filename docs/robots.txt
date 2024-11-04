@@ -1,1 +1,1 @@
-Sitemap: https://adriandusa.eu/sitemap.xml
+Sitemap: https://dusadrian.github.io/blogsite/sitemap.xml
