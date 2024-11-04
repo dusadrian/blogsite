@@ -9,7 +9,7 @@ website:
   favicon: "images/favicon.png"
   twitter-card: true
   title: "Adrian Dușa"
-  site-url: https://dusadrian.github.io/blogsite
+  site-url: https://adriandusa.eu
   navbar:
     pinned: true
     search: true
@@ -19,6 +19,8 @@ website:
         text: About
       - href: blog/index.qmd
         text: Blog
+      - href: video/index.qmd
+        text: Video
       - href: research/index.qmd
         text: Research
       - href: "cv/index.qmd"
