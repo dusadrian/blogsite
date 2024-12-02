@@ -1,0 +1,14 @@
+---
+title: "How to mark-up a DDI Codebook using R"
+description: "Short tutorial demonstrating how to build a DDI Codebook using the R package DDIwR"
+author:
+  - name: Adrian Dușa
+date: 11-11-2024
+categories: [DDI, English]
+image: ddi-R.svg
+draft: false
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hnEQIUkWe8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
