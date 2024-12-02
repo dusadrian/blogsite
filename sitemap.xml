@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dusadrian.github.io/blogsite/cv/index.html</loc>
-    <lastmod>2024-10-27T11:08:03.605Z</lastmod>
-  </url>
-  <url>
     <loc>https://dusadrian.github.io/blogsite/video/index.html</loc>
     <lastmod>2024-11-01T09:01:50.101Z</lastmod>
   </url>
   <url>
-    <loc>https://dusadrian.github.io/blogsite/video/2024-06-26-build-codebook-using-r/index.html</loc>
-    <lastmod>2024-11-02T08:45:15.094Z</lastmod>
+    <loc>https://dusadrian.github.io/blogsite/video/2024-06-26-closer-presentation/index.html</loc>
+    <lastmod>2024-12-02T09:32:18.442Z</lastmod>
   </url>
   <url>
     <loc>https://dusadrian.github.io/blogsite/research/chapters/2021-CAUBA/index.html</loc>
@@ -61,20 +57,32 @@
     <lastmod>2024-10-27T10:54:04.161Z</lastmod>
   </url>
   <url>
-    <loc>https://dusadrian.github.io/blogsite/blog/2024-10-03-qca-openmp-gurobi/index.html</loc>
-    <lastmod>2024-10-27T10:54:04.051Z</lastmod>
+    <loc>https://dusadrian.github.io/blogsite/index.html</loc>
+    <lastmod>2024-11-04T17:32:04.557Z</lastmod>
   </url>
   <url>
-    <loc>https://dusadrian.github.io/blogsite/blog/2022-03-28-renaming-ess-variables/index.html</loc>
-    <lastmod>2024-10-27T21:32:52.660Z</lastmod>
+    <loc>https://dusadrian.github.io/blogsite/blog/index.html</loc>
+    <lastmod>2024-10-27T10:54:04.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dusadrian.github.io/blogsite/blog/2023-07-16-missing-values-in-R/index.html</loc>
+    <lastmod>2024-10-27T10:54:04.050Z</lastmod>
   </url>
   <url>
     <loc>https://dusadrian.github.io/blogsite/blog/2019-10-25-ccubes-and-cna/index.html</loc>
     <lastmod>2024-10-27T10:54:04.049Z</lastmod>
   </url>
   <url>
-    <loc>https://dusadrian.github.io/blogsite/blog/2023-07-16-missing-values-in-R/index.html</loc>
-    <lastmod>2024-10-27T10:54:04.050Z</lastmod>
+    <loc>https://dusadrian.github.io/blogsite/blog/2022-03-28-renaming-ess-variables/index.html</loc>
+    <lastmod>2024-10-27T21:32:52.660Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dusadrian.github.io/blogsite/blog/2024-10-03-qca-openmp-gurobi/index.html</loc>
+    <lastmod>2024-10-27T10:54:04.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dusadrian.github.io/blogsite/cv/index.html</loc>
+    <lastmod>2024-10-27T11:08:03.605Z</lastmod>
   </url>
   <url>
     <loc>https://dusadrian.github.io/blogsite/research/articles/2001-IQ/index.html</loc>
@@ -98,7 +106,7 @@
   </url>
   <url>
     <loc>https://dusadrian.github.io/blogsite/research/articles/2015-JMS/index.html</loc>
-    <lastmod>2024-10-27T10:54:04.182Z</lastmod>
+    <lastmod>2024-11-04T18:29:26.778Z</lastmod>
   </url>
   <url>
     <loc>https://dusadrian.github.io/blogsite/research/articles/2018-RJ/index.html</loc>
@@ -129,11 +137,7 @@
     <lastmod>2024-10-27T10:54:04.251Z</lastmod>
   </url>
   <url>
-    <loc>https://dusadrian.github.io/blogsite/blog/index.html</loc>
-    <lastmod>2024-10-27T10:54:04.052Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dusadrian.github.io/blogsite/index.html</loc>
-    <lastmod>2024-11-04T17:32:04.557Z</lastmod>
+    <loc>https://dusadrian.github.io/blogsite/video/2024-11-11-build-codebook-using-r/index.html</loc>
+    <lastmod>2024-12-02T09:27:29.198Z</lastmod>
   </url>
 </urlset>

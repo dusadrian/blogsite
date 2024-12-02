@@ -2,15 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Adrian Dușa">
-<meta name="dcterms.date" content="2024-06-26">
-<meta name="description" content="An online presentation for the Metadata management in the real world webinar series">
+<meta name="dcterms.date" content="2024-11-11">
+<meta name="description" content="Short tutorial demonstrating how to build a DDI Codebook using the R package DDIwR">
 
-<title>Building a DDI Codebook using R – Adrian Dușa</title>
+<title>How to mark-up a DDI Codebook using R – Adrian Dușa</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-555be7180ac06551d98d3da45f2690cf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -83,9 +83,9 @@ gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../../html/styles.css">
-<meta name="twitter:title" content="Building a DDI Codebook using R – Adrian Dușa">
-<meta name="twitter:description" content="An online presentation for the Metadata management in the real world webinar series">
-<meta name="twitter:image" content="https://dusadrian.github.io/blogsite/video/2024-06-26-build-codebook-using-r/closer-logo-full.svg">
+<meta name="twitter:title" content="How to mark-up a DDI Codebook using R – Adrian Dușa">
+<meta name="twitter:description" content="Short tutorial demonstrating how to build a DDI Codebook using the R package DDIwR">
+<meta name="twitter:image" content="https://dusadrian.github.io/blogsite/video/2024-11-11-build-codebook-using-r/ddi-R.svg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -145,7 +145,7 @@ gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Building a DDI Codebook using R</h1>
+<h1 class="title">How to mark-up a DDI Codebook using R</h1>
   <div class="quarto-categories">
     <div class="quarto-category">DDI</div>
     <div class="quarto-category">English</div>
@@ -154,7 +154,7 @@ gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
 
 <div>
   <div class="description">
-    An online presentation for the Metadata management in the real world webinar series
+    Short tutorial demonstrating how to build a DDI Codebook using the R package DDIwR
   </div>
 </div>
 
@@ -171,7 +171,7 @@ gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">June 26, 2024</p>
+      <p class="date">November 11, 2024</p>
     </div>
   </div>
   
@@ -183,7 +183,7 @@ gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
 </header>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qi1IcXNc6Es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hnEQIUkWe8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
 </iframe>
 
 
@@ -271,8 +271,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -383,7 +381,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

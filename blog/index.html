@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-555be7180ac06551d98d3da45f2690cf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -144,7 +144,8 @@ window.Quarto = {
 <link rel="stylesheet" href="../html/styles.css">
 <meta name="twitter:title" content="Blog posts – Adrian Dușa">
 <meta name="twitter:description" content="Adrian Dușa’s blog">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://dusadrian.github.io/blogsite/blog/2024-10-03-qca-openmp-gurobi/parallel.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -197,7 +198,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="CCubes">CCubes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="CNA">CNA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DDIwR">DDIwR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ESS">ESS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Gurobi">Gurobi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="OpenMP">OpenMP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QCA">QCA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R,">R, <span class="quarto-category-count">(1)</span></div><div class="category" data-category="declared">declared <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q0N1YmVz">CCubes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q05B">CNA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RERJd1I=">DDIwR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RVNT">ESS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R3Vyb2Jp">Gurobi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3Blbk1Q">OpenMP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UUNB">QCA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UiUyQw==">R, <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGVjbGFyZWQ=">declared <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -238,7 +239,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="R,,QCA,OpenMP,Gurobi" data-listing-date-sort="1727902800000" data-listing-file-modified-sort="1730026444051" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="469">
+<div class="g-col-1" data-index="0" data-categories="UiUyQyUyQ1FDQSUyQ09wZW5NUCUyQ0d1cm9iaQ==" data-listing-date-sort="1727906400000" data-listing-file-modified-sort="1730026444051" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="469">
 <a href="../blog/2024-10-03-qca-openmp-gurobi/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -249,16 +250,16 @@ window.Quarto = {
 Significant speed increase in package QCA
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R,'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UiUyQw=='); return false;">
 R,
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('QCA'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UUNB'); return false;">
 QCA
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('OpenMP'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('T3Blbk1Q'); return false;">
 OpenMP
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Gurobi'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('R3Vyb2Jp'); return false;">
 Gurobi
 </div>
 </div>
@@ -277,7 +278,7 @@ Adrian Dușa
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="R" data-listing-date-sort="1689454800000" data-listing-file-modified-sort="1730026444050" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1149">
+<div class="g-col-1" data-index="1" data-categories="Ug==" data-listing-date-sort="1689458400000" data-listing-file-modified-sort="1730026444050" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1149">
 <a href="../blog/2023-07-16-missing-values-in-R/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -288,7 +289,7 @@ Adrian Dușa
 Multiple missing values in R? Solved.
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">
 R
 </div>
 </div>
@@ -307,7 +308,7 @@ Adrian Dușa
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="R,ESS,DDIwR,declared" data-listing-date-sort="1648414800000" data-listing-file-modified-sort="1730064772660" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1230">
+<div class="g-col-1" data-index="2" data-categories="UiUyQ0VTUyUyQ0RESXdSJTJDZGVjbGFyZWQ=" data-listing-date-sort="1648418400000" data-listing-file-modified-sort="1730064772660" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1230">
 <a href="../blog/2022-03-28-renaming-ess-variables/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -318,16 +319,16 @@ Adrian Dușa
 Renaming ESS variables in R
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">
 R
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('ESS'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RVNT'); return false;">
 ESS
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('DDIwR'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RERJd1I='); return false;">
 DDIwR
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('declared'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('ZGVjbGFyZWQ='); return false;">
 declared
 </div>
 </div>
@@ -346,7 +347,7 @@ Adrian Dușa
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="CCubes,CNA" data-listing-date-sort="1571950800000" data-listing-file-modified-sort="1730026444049" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="498">
+<div class="g-col-1" data-index="3" data-categories="Q0N1YmVzJTJDQ05B" data-listing-date-sort="1571954400000" data-listing-file-modified-sort="1730026444049" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="498">
 <a href="../blog/2019-10-25-ccubes-and-cna/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -357,10 +358,10 @@ Adrian Dușa
 CCubes and CNA
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('CCubes'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q0N1YmVz'); return false;">
 CCubes
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('CNA'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q05B'); return false;">
 CNA
 </div>
 </div>
@@ -466,8 +467,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -578,7 +577,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
