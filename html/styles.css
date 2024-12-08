@@ -38,3 +38,11 @@
         background: white;
     }
 } */
+
+.keybase-icon {
+    height: 18px !important;
+    width: auto;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 4px;
+}
