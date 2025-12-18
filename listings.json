@@ -9,6 +9,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/2025-12-18-qcabook-move/index.html",
       "/blog/2024-10-03-qca-openmp-gurobi/index.html",
       "/blog/2023-07-16-missing-values-in-R/index.html",
       "/blog/2022-03-28-renaming-ess-variables/index.html",
