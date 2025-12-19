@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-86943b674c092af95b8090cbece432c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
@@ -84,7 +84,8 @@ gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
 <link rel="stylesheet" href="html/styles.css">
 <meta name="twitter:title" content="Adrian Dușa">
 <meta name="twitter:description" content="">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://dusadrian.github.io/blogsite/images/keybase.svg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -198,9 +199,13 @@ gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
     <i class="bi bi-mastodon"></i>
      <span class="about-link-text">Mastodon</span>
   </a>
+  <a href="https://www.linkedin.com/in/adrian-dușa-5709ba78/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
   <a href="https://keybase.io/dusadrian" class="about-link" rel="" target="">
     <i class="bi bi-keybase"></i>
-     <span class="about-link-text"><img src="images/keybase.svg" height="18"> &nbsp;KeyBase</span>
+     <span class="about-link-text"><img src="images/keybase.svg" style="height: 18px !important; max-height: 18px !important; width: auto !important; vertical-align: middle; margin-right: 4px;"> Keybase</span>
   </a>
 </div>
       <div class="about-contents"><div id="about-me">
@@ -215,7 +220,7 @@ gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
 <section id="full-professor" class="level3">
 <h3 data-anchor-id="full-professor">Full Professor</h3>
 <p>I work at the <a href="http://www.sas.unibuc.ro">Department of Sociology</a> from the <a href="http://www.unibuc.ro">University of Bucharest</a>, teaching social statistics, research methodology and measurement in the social sciences.</p>
-<p>I am also the National Coordinator of the <a href="http://www.europeansocialsurvey.org">ESS - European Social Survey</a>, and Director of the <a href="http://www.roda.ro">RODA - Romanian Social Data Archive</a>, being involved in data archiving for more than 20 years in partnership with the <a href="https://www.cessda.eu">CESSDA - Council of European Social Science Data Archives</a>.</p>
+<p>I am also the National Coordinator of the <a href="http://www.europeansocialsurvey.org">ESS - European Social Survey</a>, and Director of the <a href="http://www.roda.ro">RODA - Romanian Social Data Archive</a>, being involved in data archiving for more than 20 years in partnership with the <a href="https://www.cessda.eu">CESSDA - Consortium of European Social Science Data Archives</a>.</p>
 <p>My activity in the domain of research infrastructures spans nationally, appointed as a member of the CRIC - Romanian Committee for Research Infrastructures, and internationally as a former Romanian delegate to <a href="http://www.esfri.eu/">ESFRI - European Strategy Forum for Research Infrastructures</a>, where I chaired the SCI-SWG - Social and Cultural Innovation Strategy Working Group between 2012 and 2014.</p>
 <p>My primary research interest is QCA - Qualitative Comparative Analysis, a novel methodology for social research that inspires a growing community for which I serve as a member of the Advisory Board and Steering Committee at <a href="http://www.compasss.org">COMPASSS</a>. I have published extensively on methodological aspects, with a key interest in the programming of the minimization algorithms. My main programming environment is <a href="https://www.r-project.org/">R</a> (see also <a href="http://www.r-project.ro/">R-omania</a>), for which I have contributed a number of packages, among which <a href="https://cran.r-project.org/web/packages/QCA/index.html">QCA</a> for running Qualitative Comparative Analysis, <a href="https://cran.r-project.org/web/packages/DDIwR/index.html">DDIwR</a> to convert to and from other statistical software, and <a href="https://cran.r-project.org/web/packages/declared/index.html">declared</a> to (finally) declare multiple missing values and labels in R.</p>
 </section>
@@ -345,8 +350,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -457,7 +460,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

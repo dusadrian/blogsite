@@ -29,4 +29,4 @@ citation:
 
 This new book contains detailed explanations on how to perform QCA with R using the latest cutting edge developments, among which: better calibrations, improved dialogs in the GUI, expanded parameters of fit, native SOP expressions, conjunctural directional expectations, and the most advanced minimization engine called CCubes.
 
-The online version of the book can be found on <https://bookdown.org/dusadrian/QCAbook/>.
+The online version of the book can be found on <https://dusadrian.github.io/QCAbook/>

@@ -1,0 +1,24 @@
+---
+title: "New home for the QCA book"
+author:
+  - name: Adrian Dușa
+  - affiliation: University of Bucharest
+  - affiliation-url: https://www.unibuc.ro
+date: 12-18-2025
+description: "The book QCA with R has moved, now that bookdown.org hosting is being retired"
+image: "qcawithr.png"
+twitter-card:
+  image: "qcawithr.png"
+categories:
+  - QCA
+  - bookdown
+  - R
+---
+
+For years the online version of the book *QCA with R* lived at bookdown.org (`https://bookdown.org/dusadrian/QCAbook/`). Bookdown hosting is being phased out, so I have moved the live version to a new address:
+
+-   <https://dusadrian.github.io/QCAbook/>
+
+The content and look are unchanged: it is still has the same look and feel, just served from GitHub Pages. Please update your bookmarks and links to the new URL. The source remains on GitHub at <https://github.com/dusadrian/QCAbook>, and future updates will be published from there.
+
+If you spot any broken links or layout quirks after the move, let me know so I can fix them quickly.

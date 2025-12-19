@@ -39,9 +39,12 @@ about:
       href: https://mastodon.social/@dusadrian
       aria-label: Mastodon
       text: Mastodon
+    - icon: linkedin
+      href: https://www.linkedin.com/in/adrian-dușa-5709ba78/
+      text: LinkedIn
     - icon: keybase
       href: https://keybase.io/dusadrian
-      text: "![](images/keybase.svg){height=18px} &nbsp;KeyBase"
+      text: '<img src="images/keybase.svg" style="height: 18px !important; max-height: 18px !important; width: auto !important; vertical-align: middle; margin-right: 4px;"/> Keybase'
 ---
 
 ::: {#about-me}
@@ -52,7 +55,7 @@ about:
 
 I work at the [Department of Sociology](http://www.sas.unibuc.ro) from the [University of Bucharest](http://www.unibuc.ro), teaching social statistics, research methodology and measurement in the social sciences.
 
-I am also the National Coordinator of the [ESS - European Social Survey](http://www.europeansocialsurvey.org), and Director of the [RODA - Romanian Social Data Archive](http://www.roda.ro), being involved in data archiving for more than 20 years in partnership with the [CESSDA - Council of European Social Science Data Archives](https://www.cessda.eu).
+I am also the National Coordinator of the [ESS - European Social Survey](http://www.europeansocialsurvey.org), and Director of the [RODA - Romanian Social Data Archive](http://www.roda.ro), being involved in data archiving for more than 20 years in partnership with the [CESSDA - Consortium of European Social Science Data Archives](https://www.cessda.eu).
 
 My activity in the domain of research infrastructures spans nationally, appointed as a member of the CRIC - Romanian Committee for Research Infrastructures, and internationally as a former Romanian delegate to [ESFRI - European Strategy Forum for Research Infrastructures](http://www.esfri.eu/), where I chaired the SCI-SWG - Social and Cultural Innovation Strategy Working Group between 2012 and 2014.
 

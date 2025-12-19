@@ -42,6 +42,8 @@ format:
     theme: html/custom.scss
     css: html/styles.css
     toc: true
+    resources:
+      - CNAME
 
 
 editor: visual

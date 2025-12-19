@@ -1,0 +1,34 @@
+---
+type: journal
+date: 2025-07-28
+title: "<span class=\"nocase\">QCA vs. CNA: fundamental clarifications</span>"
+author:
+  - name: Adrian Dușa
+    url: https://adriandusa.eu
+    orcid: 0000-0002-3525-9253
+    affiliation: Department of Sociology, University of Bucharest
+    affiliation-url: https://sas.unibuc.ro/en
+categories:
+  - QCA
+  - CNA
+  - Boolean minimization
+pub-info:
+  links:
+    - name: Journal
+      url: https://link.springer.com/article/10.1007/s11135-025-02303-7
+      icon: fa-solid fa-scroll
+    - name: PDF
+      url: 2025-QQ.pdf
+      icon: fa-solid fa-file-pdf
+citation:
+  type: article-journal
+  url: https://link.springer.com/article/10.1007/s11135-025-02303-7
+  publisher: "Springer Nature"
+  container-title: "Quality & Quantity"
+  issn: 0033-5177
+  doi: "10.1007/s11135-025-02303-7"
+---
+
+## Abstract
+
+The ongoing debate within Configurational Comparative Methods (CCMs) primarily revolves around how different solution types are derived and interpreted. While Qualitative Comparative Analysis (QCA) generates three types of solutions (conservative, parsimonious, and intermediate), Coincidence Analysis (CNA) produces only one. This difference has fueled discussions regarding their respective methodological strengths and limitations. This paper aims to clarify fundamental misconceptions surrounding QCA, particularly in relation to CNA. It critically examines the role of sufficiency, necessity, and the implications of different minimization approaches. By addressing key misinterpretations (such as the assumption-free nature of certain solutions and the role of counterfactuals) this paper provides a structured comparison of QCA and CNA. Additionally, it highlights the methodological trade-offs involved in prioritizing either robust sufficiency or redundancy-free models. The paper concludes with recommendations for researchers in CCMs, aiming to foster a more precise understanding of these methods and their appropriate applications.
