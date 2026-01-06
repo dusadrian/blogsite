@@ -6,10 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="">
-<meta name="description" content="Adrian Dușa’s blog">
+<meta name="author" content="Adrian Dușa">
+<meta name="dcterms.date" content="2026-01-06">
+<meta name="description" content="O reflecție despre neutralitate, prezență publică și construcție instituțională. Textul exprimă o poziție personală.">
 
-<title>Blog posts – Adrian Dușa</title>
+<title>Virtuțile discreției și costurile ei – Adrian Dușa</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,26 +26,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/favicon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-86943b674c092af95b8090cbece432c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-86943b674c092af95b8090cbece432c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,35 +71,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5B3S7E955Z"></script>
 
 <script type="text/javascript">
@@ -111,39 +81,10 @@ gtag('js', new Date());
 gtag('config', 'G-5B3S7E955Z', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../html/styles.css">
-<meta name="twitter:title" content="Blog posts – Adrian Dușa">
-<meta name="twitter:description" content="Adrian Dușa’s blog">
+<link rel="stylesheet" href="../../html/styles.css">
+<meta name="twitter:title" content="Virtuțile discreției și costurile ei – Adrian Dușa">
+<meta name="twitter:description" content="O reflecție despre neutralitate, prezență publică și construcție instituțională. Textul exprimă o poziție personală.">
 <meta name="twitter:image" content="https://dusadrian.github.io/blogsite/blog/2026-01-06-virtutile-discretiei-si-costurile-ei/reflexivity.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -155,7 +96,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Adrian Dușa</span>
     </a>
   </div>
@@ -166,23 +107,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../video/index.html"> 
+    <a class="nav-link" href="../../video/index.html"> 
 <span class="menu-text">Video</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research/index.html"> 
+    <a class="nav-link" href="../../research/index.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../cv/index.html"> 
+    <a class="nav-link" href="../../cv/index.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -193,30 +134,45 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Q0N1YmVz">CCubes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q05B">CNA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RERJd1I=">DDIwR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RVNT">ESS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R3Vyb2Jp">Gurobi <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T3Blbk1Q">OpenMP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UUNB">QCA <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UiUyQw==">R, <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U1NS">SSR <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ym9va2Rvd24=">bookdown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGVjbGFyZWQ=">declared <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog posts</h1>
-</div>
+<h1 class="title">Virtuțile discreției și costurile ei</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">SSR</div>
+  </div>
+  </div>
 
 <div>
   <div class="description">
-    Adrian Dușa’s blog
+    O reflecție despre neutralitate, prezență publică și construcție instituțională. Textul exprimă o poziție personală.
   </div>
 </div>
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Adrian Dușa </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 6, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -226,231 +182,23 @@ window.Quarto = {
 </header>
 
 
-<div class="cell">
-<style type="text/css">
-#title-block-header .description {
-    display: none;
-}
-</style>
-</div>
+<p>Am citit cu atenție <a href="https://societateasociologilor.ro/mesajul-presedintelui-ssr-adrian-hatos-2025-prezent/">mesajul proaspătului președinte al SSR</a> și, recunosc, m-a încercat o senzație vagă de déjà-vu. Un soi de mâncărime familiară, ca reîntâlnirea cu o temă pe care o știm pe de rost, dar pe care încă nu ne-am hotărât ce să facem cu ea.</p>
+<p>Apelul la neutralitate partinică și la reflexivitate sistemică este, fără îndoială, oportun și corect formulat. Ar fi chiar reconfortant, dacă nu ar fi, în același timp, ușor desconcertant: ni se recomandă să nu facem lucruri pe care, în mare măsură, oricum nu le facem. Din acest punct de vedere, sociologia românească pare să fi atins deja un ideal greu de egalat: o neutralitate atât de desăvârșită, încât a devenit practic invizibilă în spațiul public. Nu mă refer aici la absența opiniilor individuale ale sociologilor, ci la lipsa unei prezențe instituționale coerente, percepute ca relevante și echidistante.</p>
+<p>Și tocmai aici apare întrebarea care nu-mi dă pace: ce urmează? Cum se transformă aceste principii (impecabile în plan normativ) în practici capabile să scoată sociologia dintr-o discreție ce riscă să devină structurală? La aproape 20 de ani de existență a SSR, reflecția este nu doar legitimă, ci inevitabilă. Iar bilanțul, dacă este onest, nu poate evita o constatare ușor inconfortabilă: am fost corecți, echilibrați, prudenți… dar vai, mult prea puțin prezenți.</p>
+<p>Există însă un aspect mult mai serios, aproape absent din mesajul noului președinte: lipsa sociologiei românești din marile studii comparative internaționale. Nu participăm, de pildă, la European Social Survey și nici la alte proiecte de anvergură similară. Nu dispunem de infrastructuri de date colectate sistematic la nivel național care să permită comparații reale, robuste, între România și alte societăți europene. În lipsa acestora, discursul despre “specificul” sau “evoluțiile” noastre riscă să plutească într-un spațiu mai degrabă retoric decât empiric.</p>
+<p>Pericolul nu este doar marginalizarea internațională, ci și atomizarea internă. Fără mari proiecte comune și fără infrastructuri partajate, sociologia riscă să devină o sumă de eforturi individuale respectabile, dar slab conectate între ele. Iar după cum bine știm, o sociologie care nu se poate compara riscă, în timp, să nu se mai poată nici explica.</p>
+<p>De aceea, poate că întrebarea centrală “ce nu ar trebui să facem?” (aici suntem deja surprinzător de disciplinați) ar trebui orientată spre ce am putea face mai mult. Cum construim parteneriate instituționale reale? Cum reintrăm în marile rețele de cercetare comparativă? Cum creăm condițiile minime pentru ca sociologia românească să fie nu doar neutră, ci și relevantă?</p>
+<p>Mai există însă o dimensiune pe care nu o putem ocoli fără un usturător disconfort intelectual. SSR nu a apărut în vid. Ea a succedat ASR-ului, construit de generația care, în anii ’90, a refondat sociologia românească aproape de la zero: instituțional, curricular, intelectual. O generație care a lucrat într-un context infinit mai precar, dar cu o energie fondatoare pe care astăzi o evocăm mai degrabă ceremonial.</p>
+<p>Iar aici comparația devine inevitabilă… și nu tocmai flatantă. Suntem, ca vârstă profesională, exact acolo unde erau ei atunci. Avem acces incomparabil mai bun la resurse, la rețele internaționale, la finanțări și la infrastructură tehnologică. Și totuși, senzația persistentă este că, în termeni de construcție colectivă, nu ne-am apropiat nici măcar de o fracțiune din ceea ce au reușit predecesorii noștri.</p>
+<p>Suntem astfel în fața unor dileme incomode: suntem suficient de neutri sau suficient de ambițioși? Respectăm principiile sau avem curajul proiectelor mari? Pentru că neutralitatea, oricât de virtuoasă, nu poate ține loc de viziune. Iar reflexivitatea, oricât de rafinată, nu poate substitui construcția.</p>
+<p>Aceeași mâncărime îmi tot reproșează că cea mai sigură formă de neutralitate nu este echidistanța, ci absența. Există un punct dincolo de care prudența nu mai este o virtute epistemică, ci un mod elegant de a lipsi. Neutralitatea nu devine o virtute prin simpla ei proclamare, ci doar atunci când este dublată de curajul de a fi, efectiv, prezent.</p>
+<p>Aceste gânduri mi-au venit citind mesajul președintelui. Îi apreciez tonul și principiile, dar am senzația că lipsește o piesă esențială din discurs: o viziune despre prezență, nu doar despre prudență. Despre construcție, nu doar despre delimitare.</p>
+<p>Sper ca aceste întrebări să poată fi discutate deschis și fără crispări. Pentru că ne apropiem de două decenii de existență instituțională, poate a venit momentul să ne întrebăm nu doar cine suntem, ci și unde vrem, concret, să fim.</p>
+<p><br></p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="U1NS" data-listing-date-sort="1767650400000" data-listing-file-modified-sort="1767731949744" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="701">
-<a href="../blog/2026-01-06-virtutile-discretiei-si-costurile-ei/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2026-01-06-virtutile-discretiei-si-costurile-ei/reflexivity.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Virtuțile discreției și costurile ei
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('U1NS'); return false;">
-SSR
-</div>
-</div>
-<div class="card-text listing-description">
-O reflecție despre neutralitate, prezență publică și construcție instituțională. Textul exprimă o poziție personală.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-6 January, 2026
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="UUNBJTJDYm9va2Rvd24lMkNS" data-listing-date-sort="1766008800000" data-listing-file-modified-sort="1766087408100" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
-<a href="../blog/2025-12-18-qcabook-move/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2025-12-18-qcabook-move/qcawithr.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-New home for the QCA book
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UUNB'); return false;">
-QCA
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Ym9va2Rvd24='); return false;">
-bookdown
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">
-R
-</div>
-</div>
-<div class="card-text listing-description">
-The book QCA with R has moved, now that bookdown.org hosting is being retired
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-18 December, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="UiUyQyUyQ1FDQSUyQ09wZW5NUCUyQ0d1cm9iaQ==" data-listing-date-sort="1727902800000" data-listing-file-modified-sort="1730026444051" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="469">
-<a href="../blog/2024-10-03-qca-openmp-gurobi/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2024-10-03-qca-openmp-gurobi/parallel.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Significant speed increase in package QCA
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UiUyQw=='); return false;">
-R,
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UUNB'); return false;">
-QCA
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('T3Blbk1Q'); return false;">
-OpenMP
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R3Vyb2Jp'); return false;">
-Gurobi
-</div>
-</div>
-<div class="card-text listing-description">
-using parallelization with OpenMP and Gurobi
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-3 October, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="Ug==" data-listing-date-sort="1689454800000" data-listing-file-modified-sort="1767731632034" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1149">
-<a href="../blog/2023-07-16-missing-values-in-R/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2023-07-16-missing-values-in-R/qms.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Multiple missing values in R? Solved.
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">
-R
-</div>
-</div>
-<div class="card-text listing-description">
-finally, social scientists can define missing values as in SPSS and Stata
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-16 July, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="UiUyQ0VTUyUyQ0RESXdSJTJDZGVjbGFyZWQ=" data-listing-date-sort="1648414800000" data-listing-file-modified-sort="1730064772660" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1230">
-<a href="../blog/2022-03-28-renaming-ess-variables/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2022-03-28-renaming-ess-variables/ESS.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Renaming ESS variables in R
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RVNT'); return false;">
-ESS
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RERJd1I='); return false;">
-DDIwR
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ZGVjbGFyZWQ='); return false;">
-declared
-</div>
-</div>
-<div class="card-text listing-description">
-through a very simple R script making use of the packages DDIwR and declared
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-28 March, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="Q0N1YmVzJTJDQ05B" data-listing-date-sort="1571950800000" data-listing-file-modified-sort="1730026444049" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="498">
-<a href="../blog/2019-10-25-ccubes-and-cna/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../blog/2019-10-25-ccubes-and-cna/comment.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-CCubes and CNA
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q0N1YmVz'); return false;">
-CCubes
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q05B'); return false;">
-CNA
-</div>
-</div>
-<div class="card-text listing-description">
-A comment on Baumgartner and Ambühl
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Adrian Dușa
-</div>
-<div class="listing-date">
-25 October, 2019
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -875,7 +623,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <p><span class="faux-block"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> 2019–2024 Adrian Dușa</span> <span class="faux-block">All content licensed under<br><a href="https://creativecommons.org/licenses/by/4.0/"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> Creative Commons CC BY 4.0</a></span></p>
 </div>   
     <div class="nav-footer-center">
-<p><span class="faux-block"><i class="fa-brands fa-orcid" aria-label="orcid"></i> <strong>ORCID</strong> <a href="https://orcid.org/0000-0002-3525-9253">0000-0002-3525-9253</a></span> <span class="faux-block"><i class="fa-solid fa-key" aria-label="key"></i> <a href="../public_key.asc.txt">PGP public key</a>   <i class="fa-solid fa-fingerprint" aria-label="fingerprint"></i> Fingerprint:<br><span class="fingerprint">FD97 F3CF F262 6C89 F16E<br> DCA8 CF1C 6FE7 50B7 B237</span></span></p>
+<p><span class="faux-block"><i class="fa-brands fa-orcid" aria-label="orcid"></i> <strong>ORCID</strong> <a href="https://orcid.org/0000-0002-3525-9253">0000-0002-3525-9253</a></span> <span class="faux-block"><i class="fa-solid fa-key" aria-label="key"></i> <a href="../../public_key.asc.txt">PGP public key</a>   <i class="fa-solid fa-fingerprint" aria-label="fingerprint"></i> Fingerprint:<br><span class="fingerprint">FD97 F3CF F262 6C89 F16E<br> DCA8 CF1C 6FE7 50B7 B237</span></span></p>
 </div>
     <div class="nav-footer-right">
 <p><span class="faux-block">Made with <i class="fa-brands fa-r-project" aria-label="r-project"></i> and <a href="https://quarto.org/">Quarto</a></span> <span class="faux-block"><a href="https://github.com/dusadrian/academic">View the source at <i class="fa-brands fa-github" aria-label="github"></i> GitHub</a></span></p>
