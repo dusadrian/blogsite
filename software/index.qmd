@@ -1,0 +1,72 @@
+---
+title: "Software"
+page-layout: full
+include-back-link: false
+toc: false
+---
+
+This page brings together the software projects I develop and maintain, mainly in R. These packages support methodological research, data documentation, and the practical handling of social science data.
+
+## Main packages
+
+### QCA
+
+[QCA](https://cran.r-project.org/web/packages/QCA/index.html) implements Qualitative Comparative Analysis in R. It covers the core analytical workflow, from calibration and truth tables to Boolean minimization and solution interpretation.
+
+- CRAN: <https://cran.r-project.org/web/packages/QCA/index.html>
+- r-universe: <https://dusadrian.r-universe.dev/QCA>
+- GitHub: <https://github.com/dusadrian/QCA>
+
+### DDIwR
+
+[DDIwR](https://cran.r-project.org/web/packages/DDIwR/index.html) helps convert data and metadata across statistical formats, with a strong emphasis on the Data Documentation Initiative standard.
+
+- CRAN: <https://cran.r-project.org/web/packages/DDIwR/index.html>
+- r-universe: <https://dusadrian.r-universe.dev/DDIwR>
+- GitHub: <https://github.com/dusadrian/DDIwR>
+
+### declared
+
+[declared](https://cran.r-project.org/web/packages/declared/index.html) adds support for value labels and multiple missing values in R, addressing a long-standing gap in social science workflows.
+
+- CRAN: <https://cran.r-project.org/web/packages/declared/index.html>
+- r-universe: <https://dusadrian.r-universe.dev/declared>
+- GitHub: <https://github.com/dusadrian/declared>
+
+## Desktop tools
+
+### StatConverter
+
+[StatConverter](https://roda.github.io/StatConverter/) is a cross-platform desktop application for converting data between R, SPSS, Stata, SAS, Excel, and DDI Codebook formats. It builds on [DDIwR](https://cran.r-project.org/web/packages/DDIwR/index.html), wrapping its conversion capabilities in a graphical interface built with Node.js and Electron.
+
+- Website: <https://roda.github.io/StatConverter/>
+- GitHub: <https://github.com/RODA/StatConverter>
+
+### DialogCreator
+
+[DialogCreator](https://roda.github.io/DialogCreator/) is a desktop tool for building graphical dialog interfaces that help users interactively compose written commands. The dialogs are meant to be imported into another application, which then executes the generated command in the target language or environment.
+
+- Website: <https://roda.github.io/DialogCreator/>
+- GitHub: <https://github.com/RODA/DialogCreator>
+
+### DialogQCA
+
+DialogQCA is the companion desktop application where dialogs created with DialogCreator are imported and executed for QCA-oriented workflows. It combines a graphical user interface (GUI) dialog system with an interactive R console, and is being developed as a cross-platform application for running commands, managing dialog-driven actions, and supporting package-specific QCA tasks.
+
+At the moment, there is no public project website for DialogQCA, but this section is prepared for future releases.
+
+#### Beta version downloads
+
+- MacOS (Apple Silicon): [DialogQCA_1.0.0_silicon.dmg](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_1.0.0_silicon.dmg)
+- Windows Installer: [DialogQCA_setup_1.0.0.exe](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_setup_1.0.0.exe)
+- Linux AppImage: [DialogQCA_1.0.0_intel.AppImage](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_1.0.0_intel.AppImage)
+
+## Software ecosystem
+
+Most current releases and build artifacts are available through my r-universe repository:
+
+<https://dusadrian.r-universe.dev/>
+
+Source code for these and related projects is available on GitHub:
+
+<https://github.com/dusadrian>

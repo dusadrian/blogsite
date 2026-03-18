@@ -19,6 +19,8 @@ website:
         text: About
       - href: blog/index.qmd
         text: Blog
+      - href: software/index.qmd
+        text: Software
       - href: video/index.qmd
         text: Video
       - href: research/index.qmd

@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Quarto Preview",
+			"type": "shell",
+			"command": "quarto",
+			"args": [
+				"preview",
+				"--no-browser"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
