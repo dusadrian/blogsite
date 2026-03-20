@@ -57,9 +57,11 @@ At the moment, there is no public project website for DialogQCA, but this sectio
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [DialogQCA_1.0.0_silicon.dmg](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_1.0.0_silicon.dmg)
-- Windows Installer: [DialogQCA_setup_1.0.0.exe](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_setup_1.0.0.exe)
-- Linux AppImage: [DialogQCA_1.0.0_intel.AppImage](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_1.0.0_intel.AppImage)
+- MacOS (Apple Silicon): [DialogQCA_1.0.1_silicon.dmg](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_1.0.1_silicon.dmg)
+- MacOS (Intel): [DialogQCA_1.0.1_intel.dmg](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_1.0.1_intel.dmg)
+- Windows Installer: [DialogQCA_setup_1.0.1_intel.exe](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_setup_1.0.1_intel.exe)
+- Windows Executable (No installation): [DialogQCA_1.0.1_intel.exe](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_1.0.1_intel.exe)
+- Linux AppImage: [DialogQCA_1.0.1_intel.AppImage](https://github.com/dusadrian/DialogQCA-release/releases/download/1.0.0-beta/DialogQCA_1.0.1_intel.AppImage)
 
 ## Software ecosystem
 
