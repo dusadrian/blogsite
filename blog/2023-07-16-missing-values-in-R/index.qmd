@@ -6,7 +6,7 @@ author:
 date: 07-16-2023
 categories: [R]
 citation:
-  url: https://adriandusa.eu/posts/2023-07-16-missing-values-in-R/
+  url: https://adriandusa.com/posts/2023-07-16-missing-values-in-R/
 image: qms.jpeg
 draft: false
 ---

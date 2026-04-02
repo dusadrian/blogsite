@@ -17,7 +17,7 @@ author:
     affiliation: Centre for Environmental Research and Impact Studies, University of Bucharest
     affiliation-url: https://ccmesi.ro
   - name: Adrian Dușa
-    url: https://adriandusa.eu
+    url: https://adriandusa.com
     orcid: 0000-0002-3525-9253
     affiliation: Department of Sociology, University of Bucharest
     affiliation-url: https://sas.unibuc.ro/en

@@ -6,7 +6,7 @@ author:
 date: 03-28-2022
 categories: [R, ESS, DDIwR, declared]
 citation:
-  url: https://adriandusa.eu/posts/2022-03-28-renaming-ess-variables/
+  url: https://adriandusa.com/posts/2022-03-28-renaming-ess-variables/
 image: "ESS.png"
 draft: false
 ---

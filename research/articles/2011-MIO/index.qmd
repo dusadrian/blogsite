@@ -7,14 +7,14 @@ description: |
   This paper applies probability theory to establish the goldilock zone.
 author:
   - name: Axel Marx
-    url: https://adriandusa.eu
+    url: https://adriandusa.com
     orcid: 0000-0003-1474-0539
     attributes:
       corresponding: true
     affiliation: Leuven Centre for Global Governance Studies
     affiliation-url: https://ghum.kuleuven.be/ggs
   - name: Adrian Dușa
-    url: https://adriandusa.eu
+    url: https://adriandusa.com
     orcid: 0000-0002-3525-9253
     affiliation: Department of Sociology, University of Bucharest
     affiliation-url: https://sas.unibuc.ro/en

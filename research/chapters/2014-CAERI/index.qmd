@@ -6,7 +6,7 @@ description: |
   A chapter in a book resulting from a joint European collaboration fostered by the SSH working group of the European Strategy Forum for Research Infrastructures (ESFRI).
 author:
   - name: Adrian Dușa
-    url: https://adriandusa.eu
+    url: https://adriandusa.com
     orcid: 0000-0002-3525-9253
     affiliation: Department of Sociology, University of Bucharest
     affiliation-url: https://sas.unibuc.ro/en

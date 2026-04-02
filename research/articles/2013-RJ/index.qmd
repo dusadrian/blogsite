@@ -11,7 +11,7 @@ author:
       corresponding: true
     affiliation: Swiss Federal Institute of Technology Zurich
   - name: Adrian Dușa
-    url: https://adriandusa.eu
+    url: https://adriandusa.com
     orcid: 0000-0002-3525-9253
     affiliation: Department of Sociology, University of Bucharest
     affiliation-url: https://sas.unibuc.ro/en

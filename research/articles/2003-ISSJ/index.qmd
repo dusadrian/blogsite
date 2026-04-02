@@ -4,7 +4,7 @@ date: 2004-09-01
 title: "Creating data services in new democracies. Experiences from a case study and related neighbours"
 author:
   - name: Adrian Dușa
-    url: https://adriandusa.eu
+    url: https://adriandusa.com
     orcid: 0000-0002-3525-9253
     attributes:
       corresponding: true

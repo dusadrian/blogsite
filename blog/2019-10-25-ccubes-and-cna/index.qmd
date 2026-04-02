@@ -6,7 +6,7 @@ author:
 date: 10-25-2019
 categories: [CCubes, CNA]
 citation:
-  url: https://adriandusa.eu/posts/2019-10-25-ccubes-and-cna/
+  url: https://adriandusa.com/posts/2019-10-25-ccubes-and-cna/
 image: comment.png
 draft: false
 ---

@@ -8,7 +8,7 @@ description: |
   thousands more complex.
 author:
   - name: Adrian Dușa
-    url: https://adriandusa.eu
+    url: https://adriandusa.com
     orcid: 0000-0002-3525-9253
     attributes:
       corresponding: true
