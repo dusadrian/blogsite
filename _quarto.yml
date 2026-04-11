@@ -9,7 +9,7 @@ website:
   favicon: "images/favicon.png"
   twitter-card: true
   title: "Adrian Dușa"
-  site-url: https://dusadrian.github.io/blogsite
+  site-url: https://adriandusa.com
   navbar:
     pinned: true
     search: true
