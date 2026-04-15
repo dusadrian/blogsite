@@ -57,11 +57,11 @@ At the moment, there is no public project website for DialogQCA, but this sectio
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [DialogQCA_1.0.6_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.6_silicon.dmg)
-- MacOS (Intel): [DialogQCA_1.0.6_intel.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.6_intel.dmg)
-- Windows Installer: [DialogQCA_setup_1.0.6_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_setup_1.0.6_intel.exe)
-- Windows Executable (No installation): [DialogQCA_1.0.6_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.6_intel.exe)
-- Linux AppImage: [DialogQCA-1.0.6_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA-1.0.6_intel.AppImage)
+- MacOS (Apple Silicon): [DialogQCA_1.0.007_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.007_silicon.dmg)
+- MacOS (Intel): [DialogQCA_1.0.007_intel.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.007_intel.dmg)
+- Windows Installer: [DialogQCA_setup_1.0.007_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_setup_1.0.007_intel.exe)
+- Windows Executable (No installation): [DialogQCA_1.0.007_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.007_intel.exe)
+- Linux AppImage: [DialogQCA-1.0.007_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA-1.0.007_intel.AppImage)
 
 ### MetadataPublisher
 
