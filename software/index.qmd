@@ -71,11 +71,11 @@ This is currently a proof-of-concept beta testing version.
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [MetadataPublisher_1.0.2-beta_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.2-beta_silicon.dmg)
-- MacOS (Intel): [MetadataPublisher_1.0.2-beta_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.2-beta_intel.dmg)
-- Windows Installer: [MetadataPublisher_setup_1.0.2-beta_intel.exe](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_setup_1.0.2-beta_intel.exe)
-- Windows Executable (No installation): [MetadataPublisher_1.0.2-beta_intel.zip](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.2-beta_intel.zip)
-- Linux AppImage: [MetadataPublisher_1.0.2-beta_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.2-beta_intel.AppImage)
+- MacOS (Apple Silicon): [MetadataPublisher_1.0.3_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.3_silicon.dmg)
+- MacOS (Intel): [MetadataPublisher_1.0.3_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.3_intel.dmg)
+- Windows Installer: [MetadataPublisher_setup_1.0.3_intel.exe](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_setup_1.0.3_intel.exe)
+- Windows Executable (No installation): [MetadataPublisher_1.0.3_intel.exe](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.3_intel.exe)
+- Linux AppImage: [MetadataPublisher_1.0.3_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.3_intel.AppImage)
 
 ## Software ecosystem
 
