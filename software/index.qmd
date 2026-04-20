@@ -69,8 +69,6 @@ DialogR is a desktop application for statistical analysis built on top of R. It 
 
 It is designed as an incipient alternative to traditional statistical packages such as SPSS, while keeping users close to the actual R syntax and objects that power the analysis.
 
-- GitHub: <https://github.com/RODA/DialogR>
-
 #### Beta version downloads
 
 - MacOS (Apple Silicon): [DialogR_1.0.0_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_silicon.dmg)
