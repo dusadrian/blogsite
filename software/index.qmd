@@ -71,12 +71,11 @@ It is designed as an incipient alternative to traditional statistical packages s
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [DialogR_1.0.0_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_silicon.dmg)
-- MacOS (Intel): [DialogR_1.0.0_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_intel.dmg)
-- Windows Installer: [DialogR_setup_1.0.0_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_setup_1.0.0_intel.exe)
-- Windows Executable (No installation): [DialogR_1.0.0_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_intel.exe)
-- Linux AppImage: [DialogR_1.0.0_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_intel.AppImage)
-- Linux Debian package: [DialogR_1.0.0_intel.deb](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_intel.deb)
+- MacOS (Apple Silicon): [DialogR_1.0.01_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.01_silicon.dmg)
+- MacOS (Intel): [DialogR_1.0.01_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.01_intel.dmg)
+- Windows Installer: [DialogR_setup_1.0.01_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_setup_1.0.01_intel.exe)
+- Windows Executable (No installation): [DialogR_1.0.01_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.01_intel.exe)
+- Linux AppImage: [DialogR_1.0.01_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.01_intel.AppImage)
 
 ### MetadataPublisher
 
