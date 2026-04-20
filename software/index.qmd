@@ -63,6 +63,23 @@ At the moment, there is no public project website for DialogQCA, but this sectio
 - Windows Executable (No installation): [DialogQCA_1.0.007_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.007_intel.exe)
 - Linux AppImage: [DialogQCA-1.0.007_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA-1.0.007_intel.AppImage)
 
+### DialogR
+
+DialogR is a desktop application for statistical analysis built on top of R. It combines guided, dialog-driven procedures with a live R console, a script editor, a workspace pane, and a data editor, making it possible to move seamlessly between point-and-click analysis and direct scripting in R.
+
+It is designed as an incipient alternative to traditional statistical packages such as SPSS, while keeping users close to the actual R syntax and objects that power the analysis.
+
+- GitHub: <https://github.com/RODA/DialogR>
+
+#### Beta version downloads
+
+- MacOS (Apple Silicon): [DialogR_1.0.0_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_silicon.dmg)
+- MacOS (Intel): [DialogR_1.0.0_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_intel.dmg)
+- Windows Installer: [DialogR_setup_1.0.0_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_setup_1.0.0_intel.exe)
+- Windows Executable (No installation): [DialogR_1.0.0_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_intel.exe)
+- Linux AppImage: [DialogR_1.0.0_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_intel.AppImage)
+- Linux Debian package: [DialogR_1.0.0_intel.deb](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.0_intel.deb)
+
 ### MetadataPublisher
 
 [MetadataPublisher](https://roda.github.io/MetadataPublisher/) is a cross-platform desktop application for editing, validating, and publishing metadata using the DDI Codebook standard. It combines a structured tree view of the codebook with a spreadsheet-like view of variables and value labels, making it easier to document survey datasets and prepare standards-compliant DDI XML packages for local or public repositories.
