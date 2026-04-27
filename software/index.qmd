@@ -73,7 +73,7 @@ It is designed as an incipient alternative to traditional statistical packages s
 
 - MacOS (Apple Silicon): [DialogR_1.0.03_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.03_silicon.dmg)
 - MacOS (Intel): [DialogR_1.0.03_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.03_intel.dmg)
-- Windows Installer: [DialogR_setup_1.0.02_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_setup_1.0.02_intel.exe)
+- Windows Installer: [DialogR_setup_1.0.03_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_setup_1.0.03_intel.exe)
 - Windows Executable (No installation): [DialogR_1.0.03_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.03_intel.exe)
 - Linux AppImage: [DialogR_1.0.03_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.03_intel.AppImage)
 
