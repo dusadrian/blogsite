@@ -3,11 +3,20 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
+  post-render: scripts/normalize-social-meta.sh
 
 website:
   google-analytics: "G-5B3S7E955Z"
   favicon: "images/favicon.png"
-  twitter-card: true
+  open-graph:
+    image: media.png
+    image-width: 1200
+    image-height: 630
+  twitter-card:
+    image: media.png
+    image-width: 1200
+    image-height: 630
+    card-style: summary_large_image
   title: "Adrian Dușa"
   site-url: https://adriandusa.com
   navbar:
@@ -46,6 +55,7 @@ format:
     toc: true
     resources:
       - CNAME
+      - media.png
 
 
 editor: visual

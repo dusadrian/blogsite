@@ -1,5 +1,6 @@
 ---
 title: "Software"
+description: "Software projects in R and desktop tools for comparative analysis, metadata management, and social science workflows."
 page-layout: full
 include-back-link: false
 toc: false
@@ -57,11 +58,11 @@ At the moment, there is no public project website for DialogQCA, but this sectio
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [DialogQCA_1.0.08_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.08_silicon.dmg)
-- MacOS (Intel): [DialogQCA_1.0.08_intel.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.08_intel.dmg)
-- Windows Installer: [DialogQCA_setup_1.0.08_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_setup_1.0.08_intel.exe)
-- Windows Executable (No installation): [DialogQCA_1.0.08_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.08_intel.exe)
-- Linux AppImage: [DialogQCA-1.0.08_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA-1.0.08_intel.AppImage)
+- MacOS (Apple Silicon): [DialogQCA_1.0.12_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.12_silicon.dmg)
+- MacOS (Intel): [DialogQCA_1.0.12_intel.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.12_intel.dmg)
+- Windows Installer: [DialogQCA_setup_1.0.12_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_setup_1.0.12_intel.exe)
+- Windows Executable (No installation): [DialogQCA_1.0.12_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.12_intel.exe)
+- Linux AppImage: [DialogQCA_1.0.12_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_1.0.12_intel.AppImage)
 
 ### DialogR
 
@@ -71,11 +72,11 @@ It is designed as an incipient alternative to traditional statistical packages s
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [DialogR_1.0.03_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.03_silicon.dmg)
-- MacOS (Intel): [DialogR_1.0.03_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.03_intel.dmg)
-- Windows Installer: [DialogR_setup_1.0.03_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_setup_1.0.03_intel.exe)
-- Windows Executable (No installation): [DialogR_1.0.03_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.03_intel.exe)
-- Linux AppImage: [DialogR_1.0.03_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.03_intel.AppImage)
+- MacOS (Apple Silicon): [DialogR_1.0.13_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.13_silicon.dmg)
+- MacOS (Intel): [DialogR_1.0.13_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.13_intel.dmg)
+- Windows Installer: [DialogR_setup_1.0.13_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_setup_1.0.13_intel.exe)
+- Windows Executable (No installation): [DialogR_1.0.13_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.13_intel.exe)
+- Linux AppImage: [DialogR_1.0.13_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_1.0.13_intel.AppImage)
 
 ### MetadataPublisher
 
@@ -85,11 +86,11 @@ This is currently a proof-of-concept beta testing version.
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [MetadataPublisher_1.0.4-beta_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.4-beta_silicon.dmg)
-- MacOS (Intel): [MetadataPublisher_1.0.4-beta_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.4-beta_intel.dmg)
-- Windows Installer: [MetadataPublisher_setup_1.0.4-beta_intel.exe](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_setup_1.0.4-beta_intel.exe)
-- Windows Executable (No installation): [MetadataPublisher_1.0.4-beta_intel.exe](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.4-beta_intel.exe)
-- Linux AppImage: [MetadataPublisher_1.0.4-beta_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.4-beta_intel.AppImage)
+- MacOS (Apple Silicon): [MetadataPublisher_1.0.5-beta_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.5-beta_silicon.dmg)
+- MacOS (Intel): [MetadataPublisher_1.0.5-beta_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.5-beta_intel.dmg)
+- Windows Installer: [MetadataPublisher_setup_1.0.5-beta_intel.exe](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_setup_1.0.5-beta_intel.exe)
+- Windows Executable (No installation): [MetadataPublisher_1.0.5-beta_intel.exe](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.5-beta_intel.exe)
+- Linux AppImage: [MetadataPublisher_1.0.5-beta_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DDI/MetadataPublisher_1.0.5-beta_intel.AppImage)
 
 ## Software ecosystem
 
