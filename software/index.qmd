@@ -58,11 +58,11 @@ At the moment, there is no public project website for DialogQCA, but this sectio
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [DialogQCA_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_silicon.dmg)
-- MacOS (Intel): [DialogQCA_intel.dmg](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_intel.dmg)
-- Windows Installer: [DialogQCA_setup_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_setup_intel.exe)
-- Windows Executable (No installation): [DialogQCA_intel.exe](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_intel.exe)
-- Linux AppImage: [DialogQCA_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/QCA/DialogQCA_intel.AppImage)
+- MacOS (Apple Silicon): [DialogQCA_silicon.dmg](https://github.com/RODA/DialogQCA/releases/download/ms/DialogQCA_silicon.dmg)
+- MacOS (Intel): [DialogQCA_intel.dmg](https://github.com/RODA/DialogQCA/releases/download/mi/DialogQCA_intel.dmg)
+- Windows Installer: [DialogQCA_setup_intel.exe](https://github.com/RODA/DialogQCA/releases/download/wi/DialogQCA_setup_intel.exe)
+- Windows Executable (No installation): [DialogQCA_intel.exe](https://github.com/RODA/DialogQCA/releases/download/wi/DialogQCA_intel.exe)
+- Linux AppImage: [DialogQCA_intel.AppImage](https://github.com/RODA/DialogQCA/releases/download/li/DialogQCA_intel.AppImage)
 
 ### DialogR
 
@@ -72,11 +72,11 @@ It is designed as an incipient alternative to traditional statistical packages s
 
 #### Beta version downloads
 
-- MacOS (Apple Silicon): [DialogR_silicon.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_silicon.dmg)
-- MacOS (Intel): [DialogR_intel.dmg](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_intel.dmg)
-- Windows Installer: [DialogR_setup_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_setup_intel.exe)
-- Windows Executable (No installation): [DialogR_intel.exe](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_intel.exe)
-- Linux AppImage: [DialogR_intel.AppImage](https://github.com/dusadrian/binaries/releases/download/DialogR/DialogR_intel.AppImage)
+- MacOS (Apple Silicon): [DialogR_silicon.dmg](https://github.com/RODA/DialogR/releases/download/ms/DialogR_silicon.dmg)
+- MacOS (Intel): [DialogR_intel.dmg](https://github.com/RODA/DialogR/releases/download/mi/DialogR_intel.dmg)
+- Windows Installer: [DialogR_setup_intel.exe](https://github.com/RODA/DialogR/releases/download/wi/DialogR_setup_intel.exe)
+- Windows Executable (No installation): [DialogR_intel.exe](https://github.com/RODA/DialogR/releases/download/wi/DialogR_intel.exe)
+- Linux AppImage: [DialogR_intel.AppImage](https://github.com/RODA/DialogR/releases/download/li/DialogR_intel.AppImage)
 
 ### MetadataPublisher
 
