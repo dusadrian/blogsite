@@ -1,0 +1,31 @@
+---
+title: "Persistent identifiers: equal access for small repositories"
+author:
+  - name: Adrian Dușa
+date: 2026-10-31
+description: "Extending public funding for persistent identifiers would give small repositories equitable access to essential research infrastructure."
+categories: [Open science, Research infrastructures, Persistent identifiers]
+image: archive-doi.jpg
+image-alt: "Archive boxes with a centred blue DOI badge, shelf-green rim, orange d and white oi"
+draft: false
+---
+
+European funding for research infrastructure should reach the full diversity of repositories that preserve and share research. Small archives serving particular disciplines or communities need dependable support for their essential operating costs. Persistent identifiers offer a practical place to begin: extending public funding for this shared service would help more repositories make their collections discoverable and citable over the long term.
+
+DOIs are widely used for this purpose, alongside other systems such as Handles and ARKs. Their persistence depends on organisations maintaining metadata, updating links and sustaining the services behind them. These continuing commitments deserve a place in research infrastructure budgets, alongside storage, preservation and curation. Funding research and funding its lasting place in the scientific record belong together. ([DOI Foundation](https://www.doi.org/the-identifier/what-is-a-doi/); [ARK Alliance](https://arks.org/about/ark-faq-en/))
+
+Zenodo provides a useful precedent. Operated by CERN with support from the European Commission and other funders, it includes DOI registration in its deposit service. The supporting infrastructure is financed collectively, allowing researchers to obtain identifiers as part of publishing their work. **How can other European repositories benefit from the same treatment?** Extending coverage of these essential costs would allow public investment to support a broader range of research communities. ([Zenodo funding](https://about.zenodo.org/infrastructure/); [DOI provision](https://about.zenodo.org/principles/))
+
+The question matters most for repositories with very small budgets. DataCite’s published annual fees for direct institutional membership and infrastructure services total €2,200–€2,700 for nonprofit organisations. Through that route, an archive registering five or ten DOIs a year faces an annual commitment of several thousand euros; the same baseline covers up to 100,000 registrations. Consortium arrangements can reduce the bill, while the service still requires a recurring funding source. ([DataCite fees](https://datacite.org/fees/))
+
+That is where a fixed-cost model becomes discriminatory in its effects. A charge that a large institution absorbs routinely can consume a substantial share of a small archive’s budget, competing with the money available for documenting and preserving its collections. The contrast is particularly sharp when those same identifier costs are already covered within another publicly funded repository. A small archive may contribute a handful of carefully curated datasets with lasting scientific value. Its access to shared infrastructure should reflect that contribution, with financial arrangements proportionate to its resources.
+
+Domain-specific repositories also fulfil needs that require dedicated infrastructure. Social-science data, for example, depend on detailed documentation of sampling, questionnaires, variables and coding. Sensitive collections may require approved research applications, secure analytical environments and checks on results before release. These are integral parts of making the data usable responsibly. ([CESSDA](https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Publishing-with-CESSDA-archives); [UK Data Service](https://ukdataservice.ac.uk/help/secure-lab/securelab-faqs/)) Zenodo itself advises researchers handling sensitive personal data to use bespoke platforms. Such collections need access to publicly funded identifiers through the repositories equipped to manage them. ([Zenodo guidance](https://support.zenodo.org/help/en-gb/32-data-privacy/13-how-do-i-share-personal-data))
+
+The European Open Science Cloud (EOSC) is being developed as a federation connecting repositories and research services across Europe. Its funding should support the diversity that makes this approach useful. ([European Commission](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/open-science/european-open-science-cloud-eosc_en)) An EU-funded identifier service, delivered through existing providers and consortia, would be a practical step. It could cover registration and continuing identifier services for qualifying repositories, with fully funded access for small providers. Collections and stewardship responsibilities would remain with the repositories; funding would follow clear criteria for scientific value, metadata quality and credible preservation, supported by proportionate administration and multi-year commitments.
+
+The principle is straightforward: repositories providing a valuable service to European research deserve equitable access to the infrastructure that makes their work discoverable and citable. Extending public funding for persistent identifiers would give small repositories a fairer opportunity to contribute, and research communities greater freedom to use the services best suited to their needs.
+
+::: {.small}
+Thumbnail photograph: [Boxes of documents on repository shelving at The National Archives](https://commons.wikimedia.org/wiki/File:Boxes_of_documents_on_repository_shelving_at_The_National_Archives.jpg), The National Archives (United Kingdom), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), adapted with a DOI graphic in the center.
+:::
